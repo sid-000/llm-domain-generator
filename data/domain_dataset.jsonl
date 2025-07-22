@@ -1,500 +1,507 @@
-{"business_description": "techie car dealership in LA", "target_domain": "techiecardealershipinla.biz"}
-{"business_description": "green vegan bakery near the airport", "target_domain": "greenveganbakeryneartheairport.org"}
-{"business_description": "green vegan bakery in LA", "target_domain": "greenveganbakeryinla.com"}
-{"business_description": "modern real estate agency on Main Street", "target_domain": "modernrealestateagencyonmainstreet.org"}
-{"business_description": "global bookstore near the airport", "target_domain": "globalbookstoreneartheairport.org"}
-{"business_description": "global vegan bakery in Texas", "target_domain": "globalveganbakeryintexas.biz"}
-{"business_description": "green car dealership by the lake", "target_domain": "greencardealershipbythelake.biz"}
-{"business_description": "quick vegan bakery in Chicago", "target_domain": "quickveganbakeryinchicago.net"}
-{"business_description": "techie bookstore by the lake", "target_domain": "techiebookstorebythelake.io"}
-{"business_description": "modern real estate agency in Texas", "target_domain": "modernrealestateagencyintexas.io"}
-{"business_description": "global real estate agency downtown", "target_domain": "globalrealestateagencydowntown.biz"}
-{"business_description": "global fitness center near the airport", "target_domain": "globalfitnesscenterneartheairport.io"}
-{"business_description": "techie fitness center on Main Street", "target_domain": "techiefitnesscenteronmainstreet.net"}
-{"business_description": "vintage pet grooming downtown", "target_domain": "vintagepetgroomingdowntown.net"}
-{"business_description": "organic AI startup near the airport", "target_domain": "organicaistartupneartheairport.com"}
-{"business_description": "modern vegan bakery in Silicon Valley", "target_domain": "modernveganbakeryinsiliconvalley.io"}
-{"business_description": "fresh fitness center in LA", "target_domain": "freshfitnesscenterinla.biz"}
-{"business_description": "global law firm in NYC", "target_domain": "globallawfirminnyc.org"}
-{"business_description": "smart toy store in NYC", "target_domain": "smarttoystoreinnyc.com"}
-{"business_description": "techie bookstore downtown", "target_domain": "techiebookstoredowntown.org"}
-{"business_description": "fresh toy store on Main Street", "target_domain": "freshtoystoreonmainstreet.biz"}
-{"business_description": "global AI startup downtown", "target_domain": "globalaistartupdowntown.biz"}
-{"business_description": "smart fitness center in Chicago", "target_domain": "smartfitnesscenterinchicago.net"}
-{"business_description": "green pet grooming in Silicon Valley", "target_domain": "greenpetgroominginsiliconvalley.io"}
-{"business_description": "smart bookstore in Chicago", "target_domain": "smartbookstoreinchicago.io"}
-{"business_description": "quick vegan bakery on Main Street", "target_domain": "quickveganbakeryonmainstreet.biz"}
-{"business_description": "vintage pet grooming near the airport", "target_domain": "vintagepetgroomingneartheairport.biz"}
-{"business_description": "cozy vegan bakery in Texas", "target_domain": "cozyveganbakeryintexas.org"}
-{"business_description": "global car dealership by the lake", "target_domain": "globalcardealershipbythelake.org"}
-{"business_description": "cozy toy store by the lake", "target_domain": "cozytoystorebythelake.org"}
-{"business_description": "vintage law firm in Texas", "target_domain": "vintagelawfirmintexas.io"}
-{"business_description": "quick car dealership near the airport", "target_domain": "quickcardealershipneartheairport.net"}
-{"business_description": "vintage car dealership by the lake", "target_domain": "vintagecardealershipbythelake.org"}
-{"business_description": "cozy toy store on Main Street", "target_domain": "cozytoystoreonmainstreet.org"}
-{"business_description": "quick coffee shop in Texas", "target_domain": "quickcoffeeshopintexas.io"}
-{"business_description": "vintage toy store in Texas", "target_domain": "vintagetoystoreintexas.io"}
-{"business_description": "fresh AI startup on Main Street", "target_domain": "freshaistartuponmainstreet.com"}
-{"business_description": "quick AI startup by the lake", "target_domain": "quickaistartupbythelake.net"}
-{"business_description": "modern AI startup in a small town", "target_domain": "modernaistartupinasmalltown.biz"}
-{"business_description": "techie real estate agency downtown", "target_domain": "techierealestateagencydowntown.com"}
-{"business_description": "organic real estate agency on Main Street", "target_domain": "organicrealestateagencyonmainstreet.io"}
-{"business_description": "green real estate agency near the airport", "target_domain": "greenrealestateagencyneartheairport.com"}
-{"business_description": "modern car dealership in a small town", "target_domain": "moderncardealershipinasmalltown.io"}
-{"business_description": "techie bookstore by the lake", "target_domain": "techiebookstorebythelake.org"}
-{"business_description": "cozy AI startup in Chicago", "target_domain": "cozyaistartupinchicago.com"}
-{"business_description": "quick real estate agency by the lake", "target_domain": "quickrealestateagencybythelake.biz"}
-{"business_description": "quick toy store by the lake", "target_domain": "quicktoystorebythelake.biz"}
-{"business_description": "green fitness center in LA", "target_domain": "greenfitnesscenterinla.org"}
-{"business_description": "techie vegan bakery on Main Street", "target_domain": "techieveganbakeryonmainstreet.com"}
-{"business_description": "cozy toy store on Main Street", "target_domain": "cozytoystoreonmainstreet.net"}
-{"business_description": "smart AI startup downtown", "target_domain": "smartaistartupdowntown.biz"}
-{"business_description": "cozy car dealership in NYC", "target_domain": "cozycardealershipinnyc.org"}
-{"business_description": "techie fitness center in Chicago", "target_domain": "techiefitnesscenterinchicago.biz"}
-{"business_description": "cozy car dealership by the lake", "target_domain": "cozycardealershipbythelake.net"}
-{"business_description": "fresh pet grooming on Main Street", "target_domain": "freshpetgroomingonmainstreet.io"}
-{"business_description": "global coffee shop near the airport", "target_domain": "globalcoffeeshopneartheairport.biz"}
-{"business_description": "fresh car dealership by the lake", "target_domain": "freshcardealershipbythelake.net"}
-{"business_description": "smart coffee shop on Main Street", "target_domain": "smartcoffeeshoponmainstreet.org"}
-{"business_description": "quick toy store in NYC", "target_domain": "quicktoystoreinnyc.io"}
-{"business_description": "quick coffee shop in LA", "target_domain": "quickcoffeeshopinla.biz"}
-{"business_description": "vintage fitness center in LA", "target_domain": "vintagefitnesscenterinla.org"}
-{"business_description": "global toy store downtown", "target_domain": "globaltoystoredowntown.io"}
-{"business_description": "fresh fitness center in LA", "target_domain": "freshfitnesscenterinla.io"}
-{"business_description": "fresh toy store in Texas", "target_domain": "freshtoystoreintexas.io"}
-{"business_description": "smart pet grooming by the lake", "target_domain": "smartpetgroomingbythelake.net"}
-{"business_description": "techie vegan bakery in Silicon Valley", "target_domain": "techieveganbakeryinsiliconvalley.biz"}
-{"business_description": "techie bookstore in NYC", "target_domain": "techiebookstoreinnyc.org"}
-{"business_description": "green car dealership by the lake", "target_domain": "greencardealershipbythelake.biz"}
-{"business_description": "modern law firm in Texas", "target_domain": "modernlawfirmintexas.org"}
-{"business_description": "cozy toy store on Main Street", "target_domain": "cozytoystoreonmainstreet.io"}
-{"business_description": "vintage vegan bakery in a small town", "target_domain": "vintageveganbakeryinasmalltown.org"}
-{"business_description": "cozy real estate agency in Texas", "target_domain": "cozyrealestateagencyintexas.biz"}
-{"business_description": "cozy pet grooming near the airport", "target_domain": "cozypetgroomingneartheairport.net"}
-{"business_description": "modern fitness center near the airport", "target_domain": "modernfitnesscenterneartheairport.net"}
-{"business_description": "vintage coffee shop in LA", "target_domain": "vintagecoffeeshopinla.org"}
-{"business_description": "organic toy store in NYC", "target_domain": "organictoystoreinnyc.net"}
-{"business_description": "organic law firm near the airport", "target_domain": "organiclawfirmneartheairport.net"}
-{"business_description": "green real estate agency in Silicon Valley", "target_domain": "greenrealestateagencyinsiliconvalley.io"}
-{"business_description": "modern coffee shop in a small town", "target_domain": "moderncoffeeshopinasmalltown.org"}
-{"business_description": "vintage vegan bakery in NYC", "target_domain": "vintageveganbakeryinnyc.com"}
-{"business_description": "smart vegan bakery near the airport", "target_domain": "smartveganbakeryneartheairport.org"}
-{"business_description": "modern AI startup in Chicago", "target_domain": "modernaistartupinchicago.com"}
-{"business_description": "quick coffee shop in Chicago", "target_domain": "quickcoffeeshopinchicago.biz"}
-{"business_description": "techie AI startup by the lake", "target_domain": "techieaistartupbythelake.org"}
-{"business_description": "fresh law firm in Chicago", "target_domain": "freshlawfirminchicago.org"}
-{"business_description": "techie fitness center by the lake", "target_domain": "techiefitnesscenterbythelake.biz"}
-{"business_description": "smart law firm by the lake", "target_domain": "smartlawfirmbythelake.org"}
-{"business_description": "smart coffee shop in Texas", "target_domain": "smartcoffeeshopintexas.net"}
-{"business_description": "smart real estate agency in Texas", "target_domain": "smartrealestateagencyintexas.biz"}
-{"business_description": "smart law firm in a small town", "target_domain": "smartlawfirminasmalltown.io"}
-{"business_description": "modern bookstore on Main Street", "target_domain": "modernbookstoreonmainstreet.net"}
-{"business_description": "vintage law firm in NYC", "target_domain": "vintagelawfirminnyc.org"}
-{"business_description": "smart law firm downtown", "target_domain": "smartlawfirmdowntown.org"}
-{"business_description": "organic vegan bakery in a small town", "target_domain": "organicveganbakeryinasmalltown.net"}
-{"business_description": "cozy law firm on Main Street", "target_domain": "cozylawfirmonmainstreet.net"}
-{"business_description": "quick coffee shop on Main Street", "target_domain": "quickcoffeeshoponmainstreet.io"}
-{"business_description": "fresh vegan bakery in a small town", "target_domain": "freshveganbakeryinasmalltown.net"}
-{"business_description": "modern car dealership by the lake", "target_domain": "moderncardealershipbythelake.biz"}
-{"business_description": "organic car dealership in Texas", "target_domain": "organiccardealershipintexas.biz"}
-{"business_description": "techie vegan bakery in Texas", "target_domain": "techieveganbakeryintexas.biz"}
-{"business_description": "smart law firm in a small town", "target_domain": "smartlawfirminasmalltown.biz"}
-{"business_description": "vintage car dealership in Chicago", "target_domain": "vintagecardealershipinchicago.net"}
-{"business_description": "green toy store in Texas", "target_domain": "greentoystoreintexas.com"}
-{"business_description": "modern toy store in a small town", "target_domain": "moderntoystoreinasmalltown.com"}
-{"business_description": "green fitness center in NYC", "target_domain": "greenfitnesscenterinnyc.io"}
-{"business_description": "quick fitness center near the airport", "target_domain": "quickfitnesscenterneartheairport.org"}
-{"business_description": "green bookstore by the lake", "target_domain": "greenbookstorebythelake.io"}
-{"business_description": "quick bookstore near the airport", "target_domain": "quickbookstoreneartheairport.biz"}
-{"business_description": "fresh law firm in Texas", "target_domain": "freshlawfirmintexas.net"}
-{"business_description": "global pet grooming in Silicon Valley", "target_domain": "globalpetgroominginsiliconvalley.biz"}
-{"business_description": "techie law firm in Chicago", "target_domain": "techielawfirminchicago.com"}
-{"business_description": "vintage AI startup in Chicago", "target_domain": "vintageaistartupinchicago.org"}
-{"business_description": "techie real estate agency in Texas", "target_domain": "techierealestateagencyintexas.io"}
-{"business_description": "green car dealership in Silicon Valley", "target_domain": "greencardealershipinsiliconvalley.com"}
-{"business_description": "cozy toy store in Chicago", "target_domain": "cozytoystoreinchicago.io"}
-{"business_description": "global bookstore in a small town", "target_domain": "globalbookstoreinasmalltown.net"}
-{"business_description": "green AI startup near the airport", "target_domain": "greenaistartupneartheairport.net"}
-{"business_description": "fresh fitness center in NYC", "target_domain": "freshfitnesscenterinnyc.io"}
-{"business_description": "cozy AI startup in Chicago", "target_domain": "cozyaistartupinchicago.io"}
-{"business_description": "smart coffee shop on Main Street", "target_domain": "smartcoffeeshoponmainstreet.net"}
-{"business_description": "quick law firm in Silicon Valley", "target_domain": "quicklawfirminsiliconvalley.com"}
-{"business_description": "vintage fitness center in LA", "target_domain": "vintagefitnesscenterinla.net"}
-{"business_description": "smart real estate agency in Chicago", "target_domain": "smartrealestateagencyinchicago.biz"}
-{"business_description": "fresh coffee shop in a small town", "target_domain": "freshcoffeeshopinasmalltown.io"}
-{"business_description": "modern toy store in LA", "target_domain": "moderntoystoreinla.biz"}
-{"business_description": "modern toy store on Main Street", "target_domain": "moderntoystoreonmainstreet.org"}
-{"business_description": "fresh vegan bakery in Silicon Valley", "target_domain": "freshveganbakeryinsiliconvalley.com"}
-{"business_description": "green car dealership by the lake", "target_domain": "greencardealershipbythelake.com"}
-{"business_description": "green AI startup in a small town", "target_domain": "greenaistartupinasmalltown.io"}
-{"business_description": "cozy toy store on Main Street", "target_domain": "cozytoystoreonmainstreet.com"}
-{"business_description": "organic toy store in LA", "target_domain": "organictoystoreinla.com"}
-{"business_description": "smart bookstore on Main Street", "target_domain": "smartbookstoreonmainstreet.net"}
-{"business_description": "global fitness center in Texas", "target_domain": "globalfitnesscenterintexas.biz"}
-{"business_description": "modern real estate agency in LA", "target_domain": "modernrealestateagencyinla.org"}
-{"business_description": "quick car dealership in Texas", "target_domain": "quickcardealershipintexas.com"}
-{"business_description": "green pet grooming in LA", "target_domain": "greenpetgroominginla.io"}
-{"business_description": "organic bookstore in a small town", "target_domain": "organicbookstoreinasmalltown.org"}
-{"business_description": "global fitness center in Texas", "target_domain": "globalfitnesscenterintexas.biz"}
-{"business_description": "global bookstore in Silicon Valley", "target_domain": "globalbookstoreinsiliconvalley.io"}
-{"business_description": "organic car dealership on Main Street", "target_domain": "organiccardealershiponmainstreet.io"}
-{"business_description": "vintage car dealership near the airport", "target_domain": "vintagecardealershipneartheairport.org"}
-{"business_description": "quick fitness center in Texas", "target_domain": "quickfitnesscenterintexas.io"}
-{"business_description": "cozy real estate agency on Main Street", "target_domain": "cozyrealestateagencyonmainstreet.org"}
-{"business_description": "vintage vegan bakery near the airport", "target_domain": "vintageveganbakeryneartheairport.org"}
-{"business_description": "green real estate agency by the lake", "target_domain": "greenrealestateagencybythelake.biz"}
-{"business_description": "smart vegan bakery downtown", "target_domain": "smartveganbakerydowntown.biz"}
-{"business_description": "global pet grooming in a small town", "target_domain": "globalpetgroominginasmalltown.org"}
-{"business_description": "techie vegan bakery in Silicon Valley", "target_domain": "techieveganbakeryinsiliconvalley.com"}
-{"business_description": "cozy toy store downtown", "target_domain": "cozytoystoredowntown.net"}
-{"business_description": "organic coffee shop downtown", "target_domain": "organiccoffeeshopdowntown.biz"}
-{"business_description": "cozy fitness center in a small town", "target_domain": "cozyfitnesscenterinasmalltown.io"}
-{"business_description": "global pet grooming in a small town", "target_domain": "globalpetgroominginasmalltown.io"}
-{"business_description": "smart toy store in Chicago", "target_domain": "smarttoystoreinchicago.io"}
-{"business_description": "fresh AI startup in NYC", "target_domain": "freshaistartupinnyc.net"}
-{"business_description": "smart toy store in a small town", "target_domain": "smarttoystoreinasmalltown.net"}
-{"business_description": "techie coffee shop near the airport", "target_domain": "techiecoffeeshopneartheairport.biz"}
-{"business_description": "green toy store in Silicon Valley", "target_domain": "greentoystoreinsiliconvalley.io"}
-{"business_description": "modern bookstore downtown", "target_domain": "modernbookstoredowntown.com"}
-{"business_description": "vintage vegan bakery near the airport", "target_domain": "vintageveganbakeryneartheairport.net"}
-{"business_description": "organic car dealership on Main Street", "target_domain": "organiccardealershiponmainstreet.io"}
-{"business_description": "green law firm on Main Street", "target_domain": "greenlawfirmonmainstreet.io"}
-{"business_description": "global vegan bakery in NYC", "target_domain": "globalveganbakeryinnyc.biz"}
-{"business_description": "techie coffee shop in Chicago", "target_domain": "techiecoffeeshopinchicago.biz"}
-{"business_description": "fresh vegan bakery in NYC", "target_domain": "freshveganbakeryinnyc.io"}
-{"business_description": "vintage coffee shop in Texas", "target_domain": "vintagecoffeeshopintexas.com"}
-{"business_description": "organic pet grooming by the lake", "target_domain": "organicpetgroomingbythelake.biz"}
-{"business_description": "cozy car dealership in Silicon Valley", "target_domain": "cozycardealershipinsiliconvalley.biz"}
-{"business_description": "modern real estate agency near the airport", "target_domain": "modernrealestateagencyneartheairport.io"}
-{"business_description": "green real estate agency downtown", "target_domain": "greenrealestateagencydowntown.io"}
-{"business_description": "global fitness center in LA", "target_domain": "globalfitnesscenterinla.org"}
-{"business_description": "organic AI startup in Silicon Valley", "target_domain": "organicaistartupinsiliconvalley.org"}
-{"business_description": "organic fitness center in LA", "target_domain": "organicfitnesscenterinla.biz"}
-{"business_description": "quick fitness center in Silicon Valley", "target_domain": "quickfitnesscenterinsiliconvalley.com"}
-{"business_description": "organic AI startup near the airport", "target_domain": "organicaistartupneartheairport.io"}
-{"business_description": "global car dealership in Silicon Valley", "target_domain": "globalcardealershipinsiliconvalley.io"}
-{"business_description": "modern real estate agency in a small town", "target_domain": "modernrealestateagencyinasmalltown.biz"}
-{"business_description": "smart bookstore on Main Street", "target_domain": "smartbookstoreonmainstreet.io"}
-{"business_description": "modern fitness center in a small town", "target_domain": "modernfitnesscenterinasmalltown.net"}
-{"business_description": "cozy law firm downtown", "target_domain": "cozylawfirmdowntown.io"}
-{"business_description": "vintage bookstore in Texas", "target_domain": "vintagebookstoreintexas.com"}
-{"business_description": "global car dealership in NYC", "target_domain": "globalcardealershipinnyc.org"}
-{"business_description": "green law firm by the lake", "target_domain": "greenlawfirmbythelake.net"}
-{"business_description": "cozy coffee shop on Main Street", "target_domain": "cozycoffeeshoponmainstreet.com"}
-{"business_description": "vintage toy store in Chicago", "target_domain": "vintagetoystoreinchicago.org"}
-{"business_description": "modern fitness center in NYC", "target_domain": "modernfitnesscenterinnyc.biz"}
-{"business_description": "modern bookstore downtown", "target_domain": "modernbookstoredowntown.net"}
-{"business_description": "vintage pet grooming in Chicago", "target_domain": "vintagepetgroominginchicago.net"}
-{"business_description": "quick AI startup downtown", "target_domain": "quickaistartupdowntown.biz"}
-{"business_description": "global pet grooming in Chicago", "target_domain": "globalpetgroominginchicago.net"}
-{"business_description": "modern pet grooming in Texas", "target_domain": "modernpetgroomingintexas.com"}
-{"business_description": "green AI startup by the lake", "target_domain": "greenaistartupbythelake.com"}
-{"business_description": "cozy fitness center in Chicago", "target_domain": "cozyfitnesscenterinchicago.com"}
-{"business_description": "techie pet grooming in Chicago", "target_domain": "techiepetgroominginchicago.org"}
-{"business_description": "vintage pet grooming near the airport", "target_domain": "vintagepetgroomingneartheairport.org"}
-{"business_description": "green real estate agency in LA", "target_domain": "greenrealestateagencyinla.org"}
-{"business_description": "modern toy store downtown", "target_domain": "moderntoystoredowntown.org"}
-{"business_description": "techie coffee shop in Silicon Valley", "target_domain": "techiecoffeeshopinsiliconvalley.biz"}
-{"business_description": "organic AI startup in LA", "target_domain": "organicaistartupinla.biz"}
-{"business_description": "fresh vegan bakery in LA", "target_domain": "freshveganbakeryinla.net"}
-{"business_description": "techie coffee shop by the lake", "target_domain": "techiecoffeeshopbythelake.org"}
-{"business_description": "quick vegan bakery downtown", "target_domain": "quickveganbakerydowntown.biz"}
-{"business_description": "techie vegan bakery by the lake", "target_domain": "techieveganbakerybythelake.biz"}
-{"business_description": "vintage toy store in LA", "target_domain": "vintagetoystoreinla.com"}
-{"business_description": "techie AI startup in a small town", "target_domain": "techieaistartupinasmalltown.io"}
-{"business_description": "green AI startup in a small town", "target_domain": "greenaistartupinasmalltown.com"}
-{"business_description": "organic pet grooming by the lake", "target_domain": "organicpetgroomingbythelake.org"}
-{"business_description": "fresh bookstore in Silicon Valley", "target_domain": "freshbookstoreinsiliconvalley.com"}
-{"business_description": "techie bookstore in Texas", "target_domain": "techiebookstoreintexas.biz"}
-{"business_description": "smart pet grooming in NYC", "target_domain": "smartpetgroominginnyc.biz"}
-{"business_description": "techie toy store on Main Street", "target_domain": "techietoystoreonmainstreet.net"}
-{"business_description": "global fitness center in a small town", "target_domain": "globalfitnesscenterinasmalltown.biz"}
-{"business_description": "techie vegan bakery on Main Street", "target_domain": "techieveganbakeryonmainstreet.biz"}
-{"business_description": "cozy pet grooming in Texas", "target_domain": "cozypetgroomingintexas.net"}
-{"business_description": "vintage bookstore in Chicago", "target_domain": "vintagebookstoreinchicago.io"}
-{"business_description": "green law firm in Chicago", "target_domain": "greenlawfirminchicago.net"}
-{"business_description": "green bookstore in NYC", "target_domain": "greenbookstoreinnyc.org"}
-{"business_description": "green law firm by the lake", "target_domain": "greenlawfirmbythelake.io"}
-{"business_description": "smart fitness center on Main Street", "target_domain": "smartfitnesscenteronmainstreet.org"}
-{"business_description": "smart AI startup in Texas", "target_domain": "smartaistartupintexas.com"}
-{"business_description": "fresh car dealership in Texas", "target_domain": "freshcardealershipintexas.biz"}
-{"business_description": "vintage AI startup near the airport", "target_domain": "vintageaistartupneartheairport.org"}
-{"business_description": "global bookstore in a small town", "target_domain": "globalbookstoreinasmalltown.io"}
-{"business_description": "cozy real estate agency in LA", "target_domain": "cozyrealestateagencyinla.net"}
-{"business_description": "green law firm by the lake", "target_domain": "greenlawfirmbythelake.com"}
-{"business_description": "quick car dealership by the lake", "target_domain": "quickcardealershipbythelake.org"}
-{"business_description": "green vegan bakery in a small town", "target_domain": "greenveganbakeryinasmalltown.io"}
-{"business_description": "modern law firm on Main Street", "target_domain": "modernlawfirmonmainstreet.com"}
-{"business_description": "modern law firm in a small town", "target_domain": "modernlawfirminasmalltown.biz"}
-{"business_description": "cozy AI startup near the airport", "target_domain": "cozyaistartupneartheairport.net"}
-{"business_description": "cozy toy store in Chicago", "target_domain": "cozytoystoreinchicago.net"}
-{"business_description": "cozy toy store near the airport", "target_domain": "cozytoystoreneartheairport.io"}
-{"business_description": "green law firm in LA", "target_domain": "greenlawfirminla.io"}
-{"business_description": "fresh real estate agency downtown", "target_domain": "freshrealestateagencydowntown.net"}
-{"business_description": "modern AI startup on Main Street", "target_domain": "modernaistartuponmainstreet.org"}
-{"business_description": "fresh coffee shop by the lake", "target_domain": "freshcoffeeshopbythelake.org"}
-{"business_description": "organic pet grooming in Silicon Valley", "target_domain": "organicpetgroominginsiliconvalley.org"}
-{"business_description": "organic bookstore in NYC", "target_domain": "organicbookstoreinnyc.net"}
-{"business_description": "techie law firm by the lake", "target_domain": "techielawfirmbythelake.org"}
-{"business_description": "global AI startup in Texas", "target_domain": "globalaistartupintexas.io"}
-{"business_description": "green pet grooming in NYC", "target_domain": "greenpetgroominginnyc.biz"}
-{"business_description": "quick bookstore downtown", "target_domain": "quickbookstoredowntown.biz"}
-{"business_description": "global fitness center downtown", "target_domain": "globalfitnesscenterdowntown.biz"}
-{"business_description": "cozy AI startup in Silicon Valley", "target_domain": "cozyaistartupinsiliconvalley.com"}
-{"business_description": "green car dealership by the lake", "target_domain": "greencardealershipbythelake.org"}
-{"business_description": "fresh coffee shop near the airport", "target_domain": "freshcoffeeshopneartheairport.org"}
-{"business_description": "techie car dealership in a small town", "target_domain": "techiecardealershipinasmalltown.com"}
-{"business_description": "green law firm on Main Street", "target_domain": "greenlawfirmonmainstreet.io"}
-{"business_description": "quick car dealership in Chicago", "target_domain": "quickcardealershipinchicago.io"}
-{"business_description": "quick toy store on Main Street", "target_domain": "quicktoystoreonmainstreet.io"}
-{"business_description": "vintage law firm near the airport", "target_domain": "vintagelawfirmneartheairport.net"}
-{"business_description": "fresh toy store in a small town", "target_domain": "freshtoystoreinasmalltown.net"}
-{"business_description": "modern pet grooming by the lake", "target_domain": "modernpetgroomingbythelake.biz"}
-{"business_description": "smart vegan bakery by the lake", "target_domain": "smartveganbakerybythelake.io"}
-{"business_description": "smart pet grooming downtown", "target_domain": "smartpetgroomingdowntown.biz"}
-{"business_description": "vintage real estate agency by the lake", "target_domain": "vintagerealestateagencybythelake.biz"}
-{"business_description": "vintage toy store downtown", "target_domain": "vintagetoystoredowntown.org"}
-{"business_description": "fresh AI startup in NYC", "target_domain": "freshaistartupinnyc.net"}
-{"business_description": "quick real estate agency in Texas", "target_domain": "quickrealestateagencyintexas.net"}
-{"business_description": "green coffee shop in Chicago", "target_domain": "greencoffeeshopinchicago.io"}
-{"business_description": "vintage coffee shop in Texas", "target_domain": "vintagecoffeeshopintexas.net"}
-{"business_description": "global law firm in a small town", "target_domain": "globallawfirminasmalltown.io"}
-{"business_description": "quick bookstore in a small town", "target_domain": "quickbookstoreinasmalltown.io"}
-{"business_description": "organic real estate agency downtown", "target_domain": "organicrealestateagencydowntown.org"}
-{"business_description": "vintage car dealership in LA", "target_domain": "vintagecardealershipinla.org"}
-{"business_description": "global vegan bakery in Chicago", "target_domain": "globalveganbakeryinchicago.net"}
-{"business_description": "global AI startup in Silicon Valley", "target_domain": "globalaistartupinsiliconvalley.biz"}
-{"business_description": "green coffee shop by the lake", "target_domain": "greencoffeeshopbythelake.biz"}
-{"business_description": "quick AI startup downtown", "target_domain": "quickaistartupdowntown.net"}
-{"business_description": "techie toy store downtown", "target_domain": "techietoystoredowntown.com"}
-{"business_description": "cozy AI startup in LA", "target_domain": "cozyaistartupinla.biz"}
-{"business_description": "fresh pet grooming near the airport", "target_domain": "freshpetgroomingneartheairport.net"}
-{"business_description": "global pet grooming in Silicon Valley", "target_domain": "globalpetgroominginsiliconvalley.org"}
-{"business_description": "organic coffee shop on Main Street", "target_domain": "organiccoffeeshoponmainstreet.biz"}
-{"business_description": "organic law firm in Texas", "target_domain": "organiclawfirmintexas.io"}
-{"business_description": "quick law firm in NYC", "target_domain": "quicklawfirminnyc.net"}
-{"business_description": "modern bookstore by the lake", "target_domain": "modernbookstorebythelake.com"}
-{"business_description": "global pet grooming on Main Street", "target_domain": "globalpetgroomingonmainstreet.net"}
-{"business_description": "organic toy store on Main Street", "target_domain": "organictoystoreonmainstreet.io"}
-{"business_description": "techie toy store downtown", "target_domain": "techietoystoredowntown.org"}
-{"business_description": "modern bookstore in Texas", "target_domain": "modernbookstoreintexas.biz"}
-{"business_description": "organic law firm in a small town", "target_domain": "organiclawfirminasmalltown.com"}
-{"business_description": "vintage bookstore in a small town", "target_domain": "vintagebookstoreinasmalltown.org"}
-{"business_description": "global law firm in LA", "target_domain": "globallawfirminla.org"}
-{"business_description": "smart pet grooming in LA", "target_domain": "smartpetgroominginla.com"}
-{"business_description": "techie AI startup in Silicon Valley", "target_domain": "techieaistartupinsiliconvalley.org"}
-{"business_description": "modern bookstore in Silicon Valley", "target_domain": "modernbookstoreinsiliconvalley.com"}
-{"business_description": "cozy law firm in NYC", "target_domain": "cozylawfirminnyc.org"}
-{"business_description": "modern real estate agency in Texas", "target_domain": "modernrealestateagencyintexas.io"}
-{"business_description": "global vegan bakery in NYC", "target_domain": "globalveganbakeryinnyc.io"}
-{"business_description": "quick fitness center downtown", "target_domain": "quickfitnesscenterdowntown.biz"}
-{"business_description": "techie bookstore in NYC", "target_domain": "techiebookstoreinnyc.org"}
-{"business_description": "modern bookstore in NYC", "target_domain": "modernbookstoreinnyc.com"}
-{"business_description": "green fitness center in Silicon Valley", "target_domain": "greenfitnesscenterinsiliconvalley.com"}
-{"business_description": "smart AI startup in Texas", "target_domain": "smartaistartupintexas.biz"}
-{"business_description": "vintage pet grooming downtown", "target_domain": "vintagepetgroomingdowntown.com"}
-{"business_description": "quick bookstore near the airport", "target_domain": "quickbookstoreneartheairport.io"}
-{"business_description": "vintage fitness center on Main Street", "target_domain": "vintagefitnesscenteronmainstreet.biz"}
-{"business_description": "techie pet grooming in NYC", "target_domain": "techiepetgroominginnyc.net"}
-{"business_description": "fresh vegan bakery in Chicago", "target_domain": "freshveganbakeryinchicago.biz"}
-{"business_description": "quick AI startup in Chicago", "target_domain": "quickaistartupinchicago.com"}
-{"business_description": "modern fitness center in NYC", "target_domain": "modernfitnesscenterinnyc.org"}
-{"business_description": "organic real estate agency in Chicago", "target_domain": "organicrealestateagencyinchicago.com"}
-{"business_description": "cozy law firm near the airport", "target_domain": "cozylawfirmneartheairport.net"}
-{"business_description": "vintage vegan bakery in a small town", "target_domain": "vintageveganbakeryinasmalltown.biz"}
-{"business_description": "organic car dealership on Main Street", "target_domain": "organiccardealershiponmainstreet.io"}
-{"business_description": "smart toy store near the airport", "target_domain": "smarttoystoreneartheairport.net"}
-{"business_description": "smart coffee shop by the lake", "target_domain": "smartcoffeeshopbythelake.net"}
-{"business_description": "smart coffee shop near the airport", "target_domain": "smartcoffeeshopneartheairport.biz"}
-{"business_description": "vintage law firm in a small town", "target_domain": "vintagelawfirminasmalltown.net"}
-{"business_description": "organic law firm by the lake", "target_domain": "organiclawfirmbythelake.com"}
-{"business_description": "vintage toy store in Texas", "target_domain": "vintagetoystoreintexas.org"}
-{"business_description": "global real estate agency in Silicon Valley", "target_domain": "globalrealestateagencyinsiliconvalley.org"}
-{"business_description": "techie law firm on Main Street", "target_domain": "techielawfirmonmainstreet.com"}
-{"business_description": "smart real estate agency in Chicago", "target_domain": "smartrealestateagencyinchicago.org"}
-{"business_description": "techie real estate agency in Silicon Valley", "target_domain": "techierealestateagencyinsiliconvalley.org"}
-{"business_description": "quick fitness center near the airport", "target_domain": "quickfitnesscenterneartheairport.net"}
-{"business_description": "green bookstore on Main Street", "target_domain": "greenbookstoreonmainstreet.org"}
-{"business_description": "cozy car dealership in Texas", "target_domain": "cozycardealershipintexas.org"}
-{"business_description": "fresh coffee shop in Chicago", "target_domain": "freshcoffeeshopinchicago.org"}
-{"business_description": "fresh car dealership on Main Street", "target_domain": "freshcardealershiponmainstreet.io"}
-{"business_description": "smart vegan bakery in LA", "target_domain": "smartveganbakeryinla.com"}
-{"business_description": "techie real estate agency in Texas", "target_domain": "techierealestateagencyintexas.org"}
-{"business_description": "global law firm in LA", "target_domain": "globallawfirminla.org"}
-{"business_description": "organic fitness center in NYC", "target_domain": "organicfitnesscenterinnyc.com"}
-{"business_description": "global toy store by the lake", "target_domain": "globaltoystorebythelake.biz"}
-{"business_description": "cozy coffee shop in Chicago", "target_domain": "cozycoffeeshopinchicago.com"}
-{"business_description": "cozy fitness center in Texas", "target_domain": "cozyfitnesscenterintexas.io"}
-{"business_description": "vintage real estate agency on Main Street", "target_domain": "vintagerealestateagencyonmainstreet.org"}
-{"business_description": "techie car dealership downtown", "target_domain": "techiecardealershipdowntown.biz"}
-{"business_description": "vintage bookstore in Chicago", "target_domain": "vintagebookstoreinchicago.com"}
-{"business_description": "quick real estate agency in Silicon Valley", "target_domain": "quickrealestateagencyinsiliconvalley.org"}
-{"business_description": "modern AI startup in a small town", "target_domain": "modernaistartupinasmalltown.org"}
-{"business_description": "vintage AI startup in NYC", "target_domain": "vintageaistartupinnyc.net"}
-{"business_description": "cozy fitness center in a small town", "target_domain": "cozyfitnesscenterinasmalltown.com"}
-{"business_description": "global AI startup in NYC", "target_domain": "globalaistartupinnyc.biz"}
-{"business_description": "organic vegan bakery near the airport", "target_domain": "organicveganbakeryneartheairport.org"}
-{"business_description": "organic AI startup in Texas", "target_domain": "organicaistartupintexas.biz"}
-{"business_description": "smart fitness center by the lake", "target_domain": "smartfitnesscenterbythelake.io"}
-{"business_description": "green vegan bakery in Silicon Valley", "target_domain": "greenveganbakeryinsiliconvalley.biz"}
-{"business_description": "smart real estate agency in Texas", "target_domain": "smartrealestateagencyintexas.net"}
-{"business_description": "global fitness center in Chicago", "target_domain": "globalfitnesscenterinchicago.net"}
-{"business_description": "techie AI startup in Chicago", "target_domain": "techieaistartupinchicago.net"}
-{"business_description": "organic car dealership in LA", "target_domain": "organiccardealershipinla.com"}
-{"business_description": "global fitness center in Texas", "target_domain": "globalfitnesscenterintexas.net"}
-{"business_description": "quick AI startup in LA", "target_domain": "quickaistartupinla.io"}
-{"business_description": "modern real estate agency downtown", "target_domain": "modernrealestateagencydowntown.net"}
-{"business_description": "quick car dealership in a small town", "target_domain": "quickcardealershipinasmalltown.net"}
-{"business_description": "cozy law firm in LA", "target_domain": "cozylawfirminla.com"}
-{"business_description": "cozy fitness center in NYC", "target_domain": "cozyfitnesscenterinnyc.net"}
-{"business_description": "global pet grooming in a small town", "target_domain": "globalpetgroominginasmalltown.org"}
-{"business_description": "green coffee shop in a small town", "target_domain": "greencoffeeshopinasmalltown.org"}
-{"business_description": "cozy fitness center in LA", "target_domain": "cozyfitnesscenterinla.org"}
-{"business_description": "modern real estate agency in a small town", "target_domain": "modernrealestateagencyinasmalltown.io"}
-{"business_description": "global bookstore downtown", "target_domain": "globalbookstoredowntown.com"}
-{"business_description": "quick fitness center by the lake", "target_domain": "quickfitnesscenterbythelake.org"}
-{"business_description": "vintage coffee shop in Silicon Valley", "target_domain": "vintagecoffeeshopinsiliconvalley.io"}
-{"business_description": "fresh car dealership in NYC", "target_domain": "freshcardealershipinnyc.io"}
-{"business_description": "global real estate agency in NYC", "target_domain": "globalrealestateagencyinnyc.net"}
-{"business_description": "cozy pet grooming on Main Street", "target_domain": "cozypetgroomingonmainstreet.net"}
-{"business_description": "techie law firm in Texas", "target_domain": "techielawfirmintexas.io"}
-{"business_description": "organic pet grooming near the airport", "target_domain": "organicpetgroomingneartheairport.biz"}
-{"business_description": "smart vegan bakery by the lake", "target_domain": "smartveganbakerybythelake.biz"}
-{"business_description": "fresh car dealership in a small town", "target_domain": "freshcardealershipinasmalltown.biz"}
-{"business_description": "organic law firm in a small town", "target_domain": "organiclawfirminasmalltown.io"}
-{"business_description": "smart coffee shop in Chicago", "target_domain": "smartcoffeeshopinchicago.net"}
-{"business_description": "modern real estate agency in Chicago", "target_domain": "modernrealestateagencyinchicago.biz"}
-{"business_description": "vintage toy store near the airport", "target_domain": "vintagetoystoreneartheairport.net"}
-{"business_description": "smart real estate agency in Texas", "target_domain": "smartrealestateagencyintexas.net"}
-{"business_description": "green car dealership by the lake", "target_domain": "greencardealershipbythelake.com"}
-{"business_description": "global real estate agency in NYC", "target_domain": "globalrealestateagencyinnyc.net"}
-{"business_description": "vintage AI startup in LA", "target_domain": "vintageaistartupinla.com"}
-{"business_description": "techie car dealership by the lake", "target_domain": "techiecardealershipbythelake.net"}
-{"business_description": "cozy law firm on Main Street", "target_domain": "cozylawfirmonmainstreet.biz"}
-{"business_description": "quick coffee shop in Texas", "target_domain": "quickcoffeeshopintexas.com"}
-{"business_description": "techie car dealership near the airport", "target_domain": "techiecardealershipneartheairport.org"}
-{"business_description": "organic coffee shop in Silicon Valley", "target_domain": "organiccoffeeshopinsiliconvalley.net"}
-{"business_description": "smart car dealership in Chicago", "target_domain": "smartcardealershipinchicago.net"}
-{"business_description": "vintage bookstore in NYC", "target_domain": "vintagebookstoreinnyc.com"}
-{"business_description": "quick law firm on Main Street", "target_domain": "quicklawfirmonmainstreet.biz"}
-{"business_description": "smart AI startup in Texas", "target_domain": "smartaistartupintexas.biz"}
-{"business_description": "green AI startup on Main Street", "target_domain": "greenaistartuponmainstreet.io"}
-{"business_description": "green vegan bakery in Texas", "target_domain": "greenveganbakeryintexas.net"}
-{"business_description": "global coffee shop in Silicon Valley", "target_domain": "globalcoffeeshopinsiliconvalley.com"}
-{"business_description": "smart real estate agency on Main Street", "target_domain": "smartrealestateagencyonmainstreet.com"}
-{"business_description": "smart real estate agency near the airport", "target_domain": "smartrealestateagencyneartheairport.net"}
-{"business_description": "techie pet grooming in Texas", "target_domain": "techiepetgroomingintexas.org"}
-{"business_description": "global toy store in LA", "target_domain": "globaltoystoreinla.biz"}
-{"business_description": "quick law firm in LA", "target_domain": "quicklawfirminla.io"}
-{"business_description": "modern fitness center in NYC", "target_domain": "modernfitnesscenterinnyc.org"}
-{"business_description": "smart real estate agency near the airport", "target_domain": "smartrealestateagencyneartheairport.net"}
-{"business_description": "global vegan bakery in Silicon Valley", "target_domain": "globalveganbakeryinsiliconvalley.com"}
-{"business_description": "techie fitness center in NYC", "target_domain": "techiefitnesscenterinnyc.io"}
-{"business_description": "fresh vegan bakery in Chicago", "target_domain": "freshveganbakeryinchicago.org"}
-{"business_description": "global toy store by the lake", "target_domain": "globaltoystorebythelake.org"}
-{"business_description": "modern fitness center in Silicon Valley", "target_domain": "modernfitnesscenterinsiliconvalley.io"}
-{"business_description": "organic pet grooming downtown", "target_domain": "organicpetgroomingdowntown.com"}
-{"business_description": "techie vegan bakery in NYC", "target_domain": "techieveganbakeryinnyc.net"}
-{"business_description": "vintage pet grooming in Texas", "target_domain": "vintagepetgroomingintexas.com"}
-{"business_description": "quick car dealership downtown", "target_domain": "quickcardealershipdowntown.io"}
-{"business_description": "green real estate agency by the lake", "target_domain": "greenrealestateagencybythelake.biz"}
-{"business_description": "organic law firm in NYC", "target_domain": "organiclawfirminnyc.biz"}
-{"business_description": "smart pet grooming downtown", "target_domain": "smartpetgroomingdowntown.org"}
-{"business_description": "techie AI startup in Chicago", "target_domain": "techieaistartupinchicago.biz"}
-{"business_description": "green toy store in LA", "target_domain": "greentoystoreinla.biz"}
-{"business_description": "vintage bookstore by the lake", "target_domain": "vintagebookstorebythelake.net"}
-{"business_description": "smart real estate agency in Chicago", "target_domain": "smartrealestateagencyinchicago.net"}
-{"business_description": "fresh toy store in a small town", "target_domain": "freshtoystoreinasmalltown.org"}
-{"business_description": "green bookstore by the lake", "target_domain": "greenbookstorebythelake.com"}
-{"business_description": "techie car dealership in Silicon Valley", "target_domain": "techiecardealershipinsiliconvalley.biz"}
-{"business_description": "techie toy store in NYC", "target_domain": "techietoystoreinnyc.com"}
-{"business_description": "techie coffee shop downtown", "target_domain": "techiecoffeeshopdowntown.biz"}
-{"business_description": "smart vegan bakery in LA", "target_domain": "smartveganbakeryinla.org"}
-{"business_description": "vintage bookstore near the airport", "target_domain": "vintagebookstoreneartheairport.net"}
-{"business_description": "global vegan bakery in Chicago", "target_domain": "globalveganbakeryinchicago.org"}
-{"business_description": "global car dealership in Chicago", "target_domain": "globalcardealershipinchicago.biz"}
-{"business_description": "quick car dealership on Main Street", "target_domain": "quickcardealershiponmainstreet.com"}
-{"business_description": "cozy real estate agency near the airport", "target_domain": "cozyrealestateagencyneartheairport.com"}
-{"business_description": "fresh law firm by the lake", "target_domain": "freshlawfirmbythelake.biz"}
-{"business_description": "organic bookstore near the airport", "target_domain": "organicbookstoreneartheairport.io"}
-{"business_description": "techie AI startup in Chicago", "target_domain": "techieaistartupinchicago.io"}
-{"business_description": "global coffee shop on Main Street", "target_domain": "globalcoffeeshoponmainstreet.biz"}
-{"business_description": "vintage pet grooming downtown", "target_domain": "vintagepetgroomingdowntown.biz"}
-{"business_description": "fresh real estate agency in NYC", "target_domain": "freshrealestateagencyinnyc.org"}
-{"business_description": "cozy pet grooming in Silicon Valley", "target_domain": "cozypetgroominginsiliconvalley.org"}
-{"business_description": "cozy toy store in Silicon Valley", "target_domain": "cozytoystoreinsiliconvalley.org"}
-{"business_description": "smart law firm in Silicon Valley", "target_domain": "smartlawfirminsiliconvalley.net"}
-{"business_description": "cozy coffee shop in LA", "target_domain": "cozycoffeeshopinla.com"}
-{"business_description": "vintage car dealership in a small town", "target_domain": "vintagecardealershipinasmalltown.io"}
-{"business_description": "smart coffee shop in Silicon Valley", "target_domain": "smartcoffeeshopinsiliconvalley.io"}
-{"business_description": "smart car dealership downtown", "target_domain": "smartcardealershipdowntown.net"}
-{"business_description": "cozy pet grooming in NYC", "target_domain": "cozypetgroominginnyc.net"}
-{"business_description": "organic toy store by the lake", "target_domain": "organictoystorebythelake.io"}
-{"business_description": "vintage AI startup near the airport", "target_domain": "vintageaistartupneartheairport.biz"}
-{"business_description": "vintage fitness center in a small town", "target_domain": "vintagefitnesscenterinasmalltown.io"}
-{"business_description": "modern vegan bakery downtown", "target_domain": "modernveganbakerydowntown.com"}
-{"business_description": "techie AI startup in Silicon Valley", "target_domain": "techieaistartupinsiliconvalley.net"}
-{"business_description": "vintage vegan bakery in a small town", "target_domain": "vintageveganbakeryinasmalltown.com"}
-{"business_description": "techie law firm in NYC", "target_domain": "techielawfirminnyc.net"}
-{"business_description": "smart AI startup in Silicon Valley", "target_domain": "smartaistartupinsiliconvalley.org"}
-{"business_description": "vintage vegan bakery in Silicon Valley", "target_domain": "vintageveganbakeryinsiliconvalley.biz"}
-{"business_description": "modern toy store in Silicon Valley", "target_domain": "moderntoystoreinsiliconvalley.io"}
-{"business_description": "techie pet grooming on Main Street", "target_domain": "techiepetgroomingonmainstreet.org"}
-{"business_description": "modern coffee shop on Main Street", "target_domain": "moderncoffeeshoponmainstreet.net"}
-{"business_description": "smart vegan bakery in Silicon Valley", "target_domain": "smartveganbakeryinsiliconvalley.org"}
-{"business_description": "smart AI startup in NYC", "target_domain": "smartaistartupinnyc.biz"}
-{"business_description": "cozy coffee shop in Silicon Valley", "target_domain": "cozycoffeeshopinsiliconvalley.net"}
-{"business_description": "global car dealership in LA", "target_domain": "globalcardealershipinla.net"}
-{"business_description": "fresh toy store in NYC", "target_domain": "freshtoystoreinnyc.biz"}
-{"business_description": "organic fitness center near the airport", "target_domain": "organicfitnesscenterneartheairport.org"}
-{"business_description": "green fitness center downtown", "target_domain": "greenfitnesscenterdowntown.com"}
-{"business_description": "fresh pet grooming in Texas", "target_domain": "freshpetgroomingintexas.biz"}
-{"business_description": "quick bookstore in Chicago", "target_domain": "quickbookstoreinchicago.io"}
-{"business_description": "smart car dealership in a small town", "target_domain": "smartcardealershipinasmalltown.org"}
-{"business_description": "fresh AI startup in NYC", "target_domain": "freshaistartupinnyc.com"}
-{"business_description": "vintage AI startup in Silicon Valley", "target_domain": "vintageaistartupinsiliconvalley.net"}
-{"business_description": "fresh fitness center near the airport", "target_domain": "freshfitnesscenterneartheairport.io"}
-{"business_description": "cozy car dealership by the lake", "target_domain": "cozycardealershipbythelake.net"}
-{"business_description": "green bookstore in Chicago", "target_domain": "greenbookstoreinchicago.io"}
-{"business_description": "organic bookstore in NYC", "target_domain": "organicbookstoreinnyc.net"}
-{"business_description": "smart real estate agency in NYC", "target_domain": "smartrealestateagencyinnyc.net"}
-{"business_description": "fresh bookstore by the lake", "target_domain": "freshbookstorebythelake.org"}
-{"business_description": "organic coffee shop in NYC", "target_domain": "organiccoffeeshopinnyc.biz"}
-{"business_description": "cozy real estate agency on Main Street", "target_domain": "cozyrealestateagencyonmainstreet.biz"}
-{"business_description": "green toy store in Silicon Valley", "target_domain": "greentoystoreinsiliconvalley.org"}
-{"business_description": "techie toy store near the airport", "target_domain": "techietoystoreneartheairport.biz"}
-{"business_description": "techie vegan bakery by the lake", "target_domain": "techieveganbakerybythelake.net"}
-{"business_description": "techie AI startup in Texas", "target_domain": "techieaistartupintexas.io"}
-{"business_description": "green toy store in a small town", "target_domain": "greentoystoreinasmalltown.net"}
-{"business_description": "cozy bookstore in Texas", "target_domain": "cozybookstoreintexas.net"}
-{"business_description": "fresh toy store on Main Street", "target_domain": "freshtoystoreonmainstreet.com"}
-{"business_description": "green AI startup in NYC", "target_domain": "greenaistartupinnyc.io"}
-{"business_description": "fresh coffee shop in Texas", "target_domain": "freshcoffeeshopintexas.com"}
-{"business_description": "fresh pet grooming in Silicon Valley", "target_domain": "freshpetgroominginsiliconvalley.net"}
-{"business_description": "vintage car dealership on Main Street", "target_domain": "vintagecardealershiponmainstreet.biz"}
-{"business_description": "green law firm in Texas", "target_domain": "greenlawfirmintexas.com"}
-{"business_description": "green fitness center by the lake", "target_domain": "greenfitnesscenterbythelake.net"}
-{"business_description": "organic pet grooming in LA", "target_domain": "organicpetgroominginla.biz"}
-{"business_description": "techie fitness center by the lake", "target_domain": "techiefitnesscenterbythelake.io"}
-{"business_description": "quick pet grooming near the airport", "target_domain": "quickpetgroomingneartheairport.io"}
-{"business_description": "quick car dealership in Chicago", "target_domain": "quickcardealershipinchicago.io"}
-{"business_description": "techie real estate agency in a small town", "target_domain": "techierealestateagencyinasmalltown.org"}
-{"business_description": "vintage bookstore in Silicon Valley", "target_domain": "vintagebookstoreinsiliconvalley.com"}
-{"business_description": "vintage pet grooming in Silicon Valley", "target_domain": "vintagepetgroominginsiliconvalley.biz"}
-{"business_description": "fresh toy store on Main Street", "target_domain": "freshtoystoreonmainstreet.io"}
-{"business_description": "techie bookstore in Silicon Valley", "target_domain": "techiebookstoreinsiliconvalley.com"}
-{"business_description": "smart toy store in a small town", "target_domain": "smarttoystoreinasmalltown.com"}
-{"business_description": "modern vegan bakery in Texas", "target_domain": "modernveganbakeryintexas.com"}
-{"business_description": "quick vegan bakery by the lake", "target_domain": "quickveganbakerybythelake.org"}
-{"business_description": "cozy pet grooming downtown", "target_domain": "cozypetgroomingdowntown.org"}
-{"business_description": "quick car dealership in a small town", "target_domain": "quickcardealershipinasmalltown.net"}
-{"business_description": "modern fitness center on Main Street", "target_domain": "modernfitnesscenteronmainstreet.io"}
-{"business_description": "quick pet grooming in Chicago", "target_domain": "quickpetgroominginchicago.com"}
-{"business_description": "cozy AI startup in Chicago", "target_domain": "cozyaistartupinchicago.org"}
-{"business_description": "smart AI startup on Main Street", "target_domain": "smartaistartuponmainstreet.biz"}
-{"business_description": "vintage bookstore downtown", "target_domain": "vintagebookstoredowntown.com"}
-{"business_description": "modern coffee shop in NYC", "target_domain": "moderncoffeeshopinnyc.com"}
-{"business_description": "quick real estate agency on Main Street", "target_domain": "quickrealestateagencyonmainstreet.com"}
-{"business_description": "global AI startup in NYC", "target_domain": "globalaistartupinnyc.org"}
-{"business_description": "quick pet grooming in Silicon Valley", "target_domain": "quickpetgroominginsiliconvalley.com"}
-{"business_description": "smart car dealership near the airport", "target_domain": "smartcardealershipneartheairport.net"}
+{"business_description": "green AI startup in LA", "target_domain": "greenaistartupinla.org", "adjective": "green", "business_type": "AI startup", "location": "in LA", "version": "v1"}
+{"business_description": "quick car dealership near the airport", "target_domain": "quickcardealershipneartheairport.biz", "adjective": "quick", "business_type": "car dealership", "location": "near the airport", "version": "v1"}
+{"business_description": "cozy car dealership by the lake", "target_domain": "cozycardealershipbythelake.org", "adjective": "cozy", "business_type": "car dealership", "location": "by the lake", "version": "v1"}
+{"business_description": "cozy fitness center in Silicon Valley", "target_domain": "cozyfitnesscenterinsiliconvalley.io", "adjective": "cozy", "business_type": "fitness center", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "modern toy store in Silicon Valley", "target_domain": "moderntoystoreinsiliconvalley.org", "adjective": "modern", "business_type": "toy store", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "modern toy store in Silicon Valley", "target_domain": "moderntoystoreinsiliconvalley.biz", "adjective": "modern", "business_type": "toy store", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "smart toy store on Main Street", "target_domain": "smarttoystoreonmainstreet.com", "adjective": "smart", "business_type": "toy store", "location": "on Main Street", "version": "v1"}
+{"business_description": "modern pet grooming on Main Street", "target_domain": "modernpetgroomingonmainstreet.org", "adjective": "modern", "business_type": "pet grooming", "location": "on Main Street", "version": "v1"}
+{"business_description": "modern coffee shop in LA", "target_domain": "moderncoffeeshopinla.io", "adjective": "modern", "business_type": "coffee shop", "location": "in LA", "version": "v1"}
+{"business_description": "techie fitness center in a small town", "target_domain": "techiefitnesscenterinasmalltown.net", "adjective": "techie", "business_type": "fitness center", "location": "in a small town", "version": "v1"}
+{"business_description": "cozy real estate agency near the airport", "target_domain": "cozyrealestateagencyneartheairport.net", "adjective": "cozy", "business_type": "real estate agency", "location": "near the airport", "version": "v1"}
+{"business_description": "cozy vegan bakery in Texas", "target_domain": "cozyveganbakeryintexas.org", "adjective": "cozy", "business_type": "vegan bakery", "location": "in Texas", "version": "v1"}
+{"business_description": "quick coffee shop in a small town", "target_domain": "quickcoffeeshopinasmalltown.org", "adjective": "quick", "business_type": "coffee shop", "location": "in a small town", "version": "v1"}
+{"business_description": "quick toy store in Silicon Valley", "target_domain": "quicktoystoreinsiliconvalley.net", "adjective": "quick", "business_type": "toy store", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "smart law firm downtown", "target_domain": "smartlawfirmdowntown.io", "adjective": "smart", "business_type": "law firm", "location": "downtown", "version": "v1"}
+{"business_description": "fresh vegan bakery in Texas", "target_domain": "freshveganbakeryintexas.net", "adjective": "fresh", "business_type": "vegan bakery", "location": "in Texas", "version": "v1"}
+{"business_description": "green coffee shop in a small town", "target_domain": "greencoffeeshopinasmalltown.biz", "adjective": "green", "business_type": "coffee shop", "location": "in a small town", "version": "v1"}
+{"business_description": "smart vegan bakery in NYC", "target_domain": "smartveganbakeryinnyc.io", "adjective": "smart", "business_type": "vegan bakery", "location": "in NYC", "version": "v1"}
+{"business_description": "modern car dealership downtown", "target_domain": "moderncardealershipdowntown.org", "adjective": "modern", "business_type": "car dealership", "location": "downtown", "version": "v1"}
+{"business_description": "techie coffee shop in a small town", "target_domain": "techiecoffeeshopinasmalltown.com", "adjective": "techie", "business_type": "coffee shop", "location": "in a small town", "version": "v1"}
+{"business_description": "cozy AI startup in LA", "target_domain": "cozyaistartupinla.io", "adjective": "cozy", "business_type": "AI startup", "location": "in LA", "version": "v1"}
+{"business_description": "vintage toy store in Chicago", "target_domain": "vintagetoystoreinchicago.com", "adjective": "vintage", "business_type": "toy store", "location": "in Chicago", "version": "v1"}
+{"business_description": "organic real estate agency in LA", "target_domain": "organicrealestateagencyinla.io", "adjective": "organic", "business_type": "real estate agency", "location": "in LA", "version": "v1"}
+{"business_description": "global AI startup by the lake", "target_domain": "globalaistartupbythelake.io", "adjective": "global", "business_type": "AI startup", "location": "by the lake", "version": "v1"}
+{"business_description": "green law firm in Chicago", "target_domain": "greenlawfirminchicago.com", "adjective": "green", "business_type": "law firm", "location": "in Chicago", "version": "v1"}
+{"business_description": "global pet grooming in Silicon Valley", "target_domain": "globalpetgroominginsiliconvalley.net", "adjective": "global", "business_type": "pet grooming", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "smart AI startup on Main Street", "target_domain": "smartaistartuponmainstreet.io", "adjective": "smart", "business_type": "AI startup", "location": "on Main Street", "version": "v1"}
+{"business_description": "smart AI startup in LA", "target_domain": "smartaistartupinla.net", "adjective": "smart", "business_type": "AI startup", "location": "in LA", "version": "v1"}
+{"business_description": "smart bookstore near the airport", "target_domain": "smartbookstoreneartheairport.org", "adjective": "smart", "business_type": "bookstore", "location": "near the airport", "version": "v1"}
+{"business_description": "global coffee shop in LA", "target_domain": "globalcoffeeshopinla.org", "adjective": "global", "business_type": "coffee shop", "location": "in LA", "version": "v1"}
+{"business_description": "techie fitness center downtown", "target_domain": "techiefitnesscenterdowntown.biz", "adjective": "techie", "business_type": "fitness center", "location": "downtown", "version": "v1"}
+{"business_description": "global AI startup on Main Street", "target_domain": "globalaistartuponmainstreet.com", "adjective": "global", "business_type": "AI startup", "location": "on Main Street", "version": "v1"}
+{"business_description": "fresh pet grooming in NYC", "target_domain": "freshpetgroominginnyc.org", "adjective": "fresh", "business_type": "pet grooming", "location": "in NYC", "version": "v1"}
+{"business_description": "cozy AI startup in Silicon Valley", "target_domain": "cozyaistartupinsiliconvalley.com", "adjective": "cozy", "business_type": "AI startup", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "global law firm downtown", "target_domain": "globallawfirmdowntown.biz", "adjective": "global", "business_type": "law firm", "location": "downtown", "version": "v1"}
+{"business_description": "modern pet grooming downtown", "target_domain": "modernpetgroomingdowntown.com", "adjective": "modern", "business_type": "pet grooming", "location": "downtown", "version": "v1"}
+{"business_description": "green toy store by the lake", "target_domain": "greentoystorebythelake.net", "adjective": "green", "business_type": "toy store", "location": "by the lake", "version": "v1"}
+{"business_description": "cozy AI startup near the airport", "target_domain": "cozyaistartupneartheairport.net", "adjective": "cozy", "business_type": "AI startup", "location": "near the airport", "version": "v1"}
+{"business_description": "vintage car dealership in LA", "target_domain": "vintagecardealershipinla.com", "adjective": "vintage", "business_type": "car dealership", "location": "in LA", "version": "v1"}
+{"business_description": "vintage real estate agency in Texas", "target_domain": "vintagerealestateagencyintexas.io", "adjective": "vintage", "business_type": "real estate agency", "location": "in Texas", "version": "v1"}
+{"business_description": "cozy toy store downtown", "target_domain": "cozytoystoredowntown.biz", "adjective": "cozy", "business_type": "toy store", "location": "downtown", "version": "v1"}
+{"business_description": "techie fitness center in a small town", "target_domain": "techiefitnesscenterinasmalltown.com", "adjective": "techie", "business_type": "fitness center", "location": "in a small town", "version": "v1"}
+{"business_description": "fresh AI startup by the lake", "target_domain": "freshaistartupbythelake.net", "adjective": "fresh", "business_type": "AI startup", "location": "by the lake", "version": "v1"}
+{"business_description": "vintage fitness center in a small town", "target_domain": "vintagefitnesscenterinasmalltown.biz", "adjective": "vintage", "business_type": "fitness center", "location": "in a small town", "version": "v1"}
+{"business_description": "vintage car dealership in Silicon Valley", "target_domain": "vintagecardealershipinsiliconvalley.io", "adjective": "vintage", "business_type": "car dealership", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "smart fitness center near the airport", "target_domain": "smartfitnesscenterneartheairport.biz", "adjective": "smart", "business_type": "fitness center", "location": "near the airport", "version": "v1"}
+{"business_description": "vintage vegan bakery by the lake", "target_domain": "vintageveganbakerybythelake.net", "adjective": "vintage", "business_type": "vegan bakery", "location": "by the lake", "version": "v1"}
+{"business_description": "quick car dealership in NYC", "target_domain": "quickcardealershipinnyc.io", "adjective": "quick", "business_type": "car dealership", "location": "in NYC", "version": "v1"}
+{"business_description": "modern vegan bakery downtown", "target_domain": "modernveganbakerydowntown.io", "adjective": "modern", "business_type": "vegan bakery", "location": "downtown", "version": "v1"}
+{"business_description": "global coffee shop in Chicago", "target_domain": "globalcoffeeshopinchicago.org", "adjective": "global", "business_type": "coffee shop", "location": "in Chicago", "version": "v1"}
+{"business_description": "vintage AI startup in Chicago", "target_domain": "vintageaistartupinchicago.net", "adjective": "vintage", "business_type": "AI startup", "location": "in Chicago", "version": "v1"}
+{"business_description": "fresh coffee shop in LA", "target_domain": "freshcoffeeshopinla.io", "adjective": "fresh", "business_type": "coffee shop", "location": "in LA", "version": "v1"}
+{"business_description": "green coffee shop in Texas", "target_domain": "greencoffeeshopintexas.biz", "adjective": "green", "business_type": "coffee shop", "location": "in Texas", "version": "v1"}
+{"business_description": "organic fitness center in a small town", "target_domain": "organicfitnesscenterinasmalltown.biz", "adjective": "organic", "business_type": "fitness center", "location": "in a small town", "version": "v1"}
+{"business_description": "smart vegan bakery in Silicon Valley", "target_domain": "smartveganbakeryinsiliconvalley.biz", "adjective": "smart", "business_type": "vegan bakery", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "smart coffee shop in Silicon Valley", "target_domain": "smartcoffeeshopinsiliconvalley.org", "adjective": "smart", "business_type": "coffee shop", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "cozy coffee shop in LA", "target_domain": "cozycoffeeshopinla.io", "adjective": "cozy", "business_type": "coffee shop", "location": "in LA", "version": "v1"}
+{"business_description": "smart AI startup in Chicago", "target_domain": "smartaistartupinchicago.com", "adjective": "smart", "business_type": "AI startup", "location": "in Chicago", "version": "v1"}
+{"business_description": "quick AI startup on Main Street", "target_domain": "quickaistartuponmainstreet.org", "adjective": "quick", "business_type": "AI startup", "location": "on Main Street", "version": "v1"}
+{"business_description": "quick bookstore in Chicago", "target_domain": "quickbookstoreinchicago.io", "adjective": "quick", "business_type": "bookstore", "location": "in Chicago", "version": "v1"}
+{"business_description": "green law firm on Main Street", "target_domain": "greenlawfirmonmainstreet.com", "adjective": "green", "business_type": "law firm", "location": "on Main Street", "version": "v1"}
+{"business_description": "smart law firm in Texas", "target_domain": "smartlawfirmintexas.org", "adjective": "smart", "business_type": "law firm", "location": "in Texas", "version": "v1"}
+{"business_description": "techie coffee shop in a small town", "target_domain": "techiecoffeeshopinasmalltown.com", "adjective": "techie", "business_type": "coffee shop", "location": "in a small town", "version": "v1"}
+{"business_description": "quick toy store on Main Street", "target_domain": "quicktoystoreonmainstreet.org", "adjective": "quick", "business_type": "toy store", "location": "on Main Street", "version": "v1"}
+{"business_description": "smart law firm in Texas", "target_domain": "smartlawfirmintexas.net", "adjective": "smart", "business_type": "law firm", "location": "in Texas", "version": "v1"}
+{"business_description": "cozy toy store downtown", "target_domain": "cozytoystoredowntown.com", "adjective": "cozy", "business_type": "toy store", "location": "downtown", "version": "v1"}
+{"business_description": "global vegan bakery in Texas", "target_domain": "globalveganbakeryintexas.net", "adjective": "global", "business_type": "vegan bakery", "location": "in Texas", "version": "v1"}
+{"business_description": "organic AI startup downtown", "target_domain": "organicaistartupdowntown.org", "adjective": "organic", "business_type": "AI startup", "location": "downtown", "version": "v1"}
+{"business_description": "quick real estate agency in NYC", "target_domain": "quickrealestateagencyinnyc.com", "adjective": "quick", "business_type": "real estate agency", "location": "in NYC", "version": "v1"}
+{"business_description": "vintage toy store by the lake", "target_domain": "vintagetoystorebythelake.com", "adjective": "vintage", "business_type": "toy store", "location": "by the lake", "version": "v1"}
+{"business_description": "global fitness center in Texas", "target_domain": "globalfitnesscenterintexas.net", "adjective": "global", "business_type": "fitness center", "location": "in Texas", "version": "v1"}
+{"business_description": "techie law firm in LA", "target_domain": "techielawfirminla.biz", "adjective": "techie", "business_type": "law firm", "location": "in LA", "version": "v1"}
+{"business_description": "techie real estate agency on Main Street", "target_domain": "techierealestateagencyonmainstreet.com", "adjective": "techie", "business_type": "real estate agency", "location": "on Main Street", "version": "v1"}
+{"business_description": "modern real estate agency in NYC", "target_domain": "modernrealestateagencyinnyc.com", "adjective": "modern", "business_type": "real estate agency", "location": "in NYC", "version": "v1"}
+{"business_description": "organic vegan bakery downtown", "target_domain": "organicveganbakerydowntown.net", "adjective": "organic", "business_type": "vegan bakery", "location": "downtown", "version": "v1"}
+{"business_description": "vintage car dealership on Main Street", "target_domain": "vintagecardealershiponmainstreet.net", "adjective": "vintage", "business_type": "car dealership", "location": "on Main Street", "version": "v1"}
+{"business_description": "quick pet grooming on Main Street", "target_domain": "quickpetgroomingonmainstreet.org", "adjective": "quick", "business_type": "pet grooming", "location": "on Main Street", "version": "v1"}
+{"business_description": "vintage bookstore in Texas", "target_domain": "vintagebookstoreintexas.com", "adjective": "vintage", "business_type": "bookstore", "location": "in Texas", "version": "v1"}
+{"business_description": "smart car dealership near the airport", "target_domain": "smartcardealershipneartheairport.com", "adjective": "smart", "business_type": "car dealership", "location": "near the airport", "version": "v1"}
+{"business_description": "global law firm in NYC", "target_domain": "globallawfirminnyc.io", "adjective": "global", "business_type": "law firm", "location": "in NYC", "version": "v1"}
+{"business_description": "smart car dealership near the airport", "target_domain": "smartcardealershipneartheairport.com", "adjective": "smart", "business_type": "car dealership", "location": "near the airport", "version": "v1"}
+{"business_description": "global vegan bakery in Texas", "target_domain": "globalveganbakeryintexas.biz", "adjective": "global", "business_type": "vegan bakery", "location": "in Texas", "version": "v1"}
+{"business_description": "quick car dealership by the lake", "target_domain": "quickcardealershipbythelake.io", "adjective": "quick", "business_type": "car dealership", "location": "by the lake", "version": "v1"}
+{"business_description": "smart toy store near the airport", "target_domain": "smarttoystoreneartheairport.net", "adjective": "smart", "business_type": "toy store", "location": "near the airport", "version": "v1"}
+{"business_description": "cozy real estate agency in LA", "target_domain": "cozyrealestateagencyinla.org", "adjective": "cozy", "business_type": "real estate agency", "location": "in LA", "version": "v1"}
+{"business_description": "green pet grooming on Main Street", "target_domain": "greenpetgroomingonmainstreet.biz", "adjective": "green", "business_type": "pet grooming", "location": "on Main Street", "version": "v1"}
+{"business_description": "global toy store in LA", "target_domain": "globaltoystoreinla.biz", "adjective": "global", "business_type": "toy store", "location": "in LA", "version": "v1"}
+{"business_description": "smart vegan bakery in Silicon Valley", "target_domain": "smartveganbakeryinsiliconvalley.io", "adjective": "smart", "business_type": "vegan bakery", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "techie bookstore downtown", "target_domain": "techiebookstoredowntown.net", "adjective": "techie", "business_type": "bookstore", "location": "downtown", "version": "v1"}
+{"business_description": "global real estate agency in Texas", "target_domain": "globalrealestateagencyintexas.io", "adjective": "global", "business_type": "real estate agency", "location": "in Texas", "version": "v1"}
+{"business_description": "modern vegan bakery near the airport", "target_domain": "modernveganbakeryneartheairport.org", "adjective": "modern", "business_type": "vegan bakery", "location": "near the airport", "version": "v1"}
+{"business_description": "organic coffee shop in NYC", "target_domain": "organiccoffeeshopinnyc.org", "adjective": "organic", "business_type": "coffee shop", "location": "in NYC", "version": "v1"}
+{"business_description": "cozy pet grooming in a small town", "target_domain": "cozypetgroominginasmalltown.org", "adjective": "cozy", "business_type": "pet grooming", "location": "in a small town", "version": "v1"}
+{"business_description": "quick law firm in Texas", "target_domain": "quicklawfirmintexas.org", "adjective": "quick", "business_type": "law firm", "location": "in Texas", "version": "v1"}
+{"business_description": "techie real estate agency in Texas", "target_domain": "techierealestateagencyintexas.org", "adjective": "techie", "business_type": "real estate agency", "location": "in Texas", "version": "v1"}
+{"business_description": "smart coffee shop in LA", "target_domain": "smartcoffeeshopinla.com", "adjective": "smart", "business_type": "coffee shop", "location": "in LA", "version": "v1"}
+{"business_description": "fresh car dealership in NYC", "target_domain": "freshcardealershipinnyc.org", "adjective": "fresh", "business_type": "car dealership", "location": "in NYC", "version": "v1"}
+{"business_description": "vintage pet grooming in Silicon Valley", "target_domain": "vintagepetgroominginsiliconvalley.io", "adjective": "vintage", "business_type": "pet grooming", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "quick car dealership in a small town", "target_domain": "quickcardealershipinasmalltown.io", "adjective": "quick", "business_type": "car dealership", "location": "in a small town", "version": "v1"}
+{"business_description": "organic car dealership near the airport", "target_domain": "organiccardealershipneartheairport.io", "adjective": "organic", "business_type": "car dealership", "location": "near the airport", "version": "v1"}
+{"business_description": "quick vegan bakery in NYC", "target_domain": "quickveganbakeryinnyc.net", "adjective": "quick", "business_type": "vegan bakery", "location": "in NYC", "version": "v1"}
+{"business_description": "green real estate agency in Chicago", "target_domain": "greenrealestateagencyinchicago.biz", "adjective": "green", "business_type": "real estate agency", "location": "in Chicago", "version": "v1"}
+{"business_description": "green car dealership in LA", "target_domain": "greencardealershipinla.biz", "adjective": "green", "business_type": "car dealership", "location": "in LA", "version": "v1"}
+{"business_description": "modern car dealership in Texas", "target_domain": "moderncardealershipintexas.net", "adjective": "modern", "business_type": "car dealership", "location": "in Texas", "version": "v1"}
+{"business_description": "quick coffee shop in a small town", "target_domain": "quickcoffeeshopinasmalltown.com", "adjective": "quick", "business_type": "coffee shop", "location": "in a small town", "version": "v1"}
+{"business_description": "cozy law firm on Main Street", "target_domain": "cozylawfirmonmainstreet.net", "adjective": "cozy", "business_type": "law firm", "location": "on Main Street", "version": "v1"}
+{"business_description": "fresh toy store near the airport", "target_domain": "freshtoystoreneartheairport.org", "adjective": "fresh", "business_type": "toy store", "location": "near the airport", "version": "v1"}
+{"business_description": "smart fitness center by the lake", "target_domain": "smartfitnesscenterbythelake.com", "adjective": "smart", "business_type": "fitness center", "location": "by the lake", "version": "v1"}
+{"business_description": "green law firm in NYC", "target_domain": "greenlawfirminnyc.com", "adjective": "green", "business_type": "law firm", "location": "in NYC", "version": "v1"}
+{"business_description": "techie real estate agency in Chicago", "target_domain": "techierealestateagencyinchicago.net", "adjective": "techie", "business_type": "real estate agency", "location": "in Chicago", "version": "v1"}
+{"business_description": "global law firm in a small town", "target_domain": "globallawfirminasmalltown.biz", "adjective": "global", "business_type": "law firm", "location": "in a small town", "version": "v1"}
+{"business_description": "techie bookstore in Silicon Valley", "target_domain": "techiebookstoreinsiliconvalley.org", "adjective": "techie", "business_type": "bookstore", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "cozy AI startup in Chicago", "target_domain": "cozyaistartupinchicago.com", "adjective": "cozy", "business_type": "AI startup", "location": "in Chicago", "version": "v1"}
+{"business_description": "organic law firm in LA", "target_domain": "organiclawfirminla.io", "adjective": "organic", "business_type": "law firm", "location": "in LA", "version": "v1"}
+{"business_description": "fresh vegan bakery in NYC", "target_domain": "freshveganbakeryinnyc.org", "adjective": "fresh", "business_type": "vegan bakery", "location": "in NYC", "version": "v1"}
+{"business_description": "quick law firm in NYC", "target_domain": "quicklawfirminnyc.org", "adjective": "quick", "business_type": "law firm", "location": "in NYC", "version": "v1"}
+{"business_description": "organic coffee shop in a small town", "target_domain": "organiccoffeeshopinasmalltown.biz", "adjective": "organic", "business_type": "coffee shop", "location": "in a small town", "version": "v1"}
+{"business_description": "vintage vegan bakery downtown", "target_domain": "vintageveganbakerydowntown.biz", "adjective": "vintage", "business_type": "vegan bakery", "location": "downtown", "version": "v1"}
+{"business_description": "quick vegan bakery downtown", "target_domain": "quickveganbakerydowntown.net", "adjective": "quick", "business_type": "vegan bakery", "location": "downtown", "version": "v1"}
+{"business_description": "organic car dealership in LA", "target_domain": "organiccardealershipinla.io", "adjective": "organic", "business_type": "car dealership", "location": "in LA", "version": "v1"}
+{"business_description": "cozy coffee shop near the airport", "target_domain": "cozycoffeeshopneartheairport.biz", "adjective": "cozy", "business_type": "coffee shop", "location": "near the airport", "version": "v1"}
+{"business_description": "cozy toy store in Chicago", "target_domain": "cozytoystoreinchicago.io", "adjective": "cozy", "business_type": "toy store", "location": "in Chicago", "version": "v1"}
+{"business_description": "green law firm in Texas", "target_domain": "greenlawfirmintexas.io", "adjective": "green", "business_type": "law firm", "location": "in Texas", "version": "v1"}
+{"business_description": "modern vegan bakery in a small town", "target_domain": "modernveganbakeryinasmalltown.biz", "adjective": "modern", "business_type": "vegan bakery", "location": "in a small town", "version": "v1"}
+{"business_description": "vintage law firm by the lake", "target_domain": "vintagelawfirmbythelake.io", "adjective": "vintage", "business_type": "law firm", "location": "by the lake", "version": "v1"}
+{"business_description": "cozy law firm near the airport", "target_domain": "cozylawfirmneartheairport.biz", "adjective": "cozy", "business_type": "law firm", "location": "near the airport", "version": "v1"}
+{"business_description": "modern pet grooming by the lake", "target_domain": "modernpetgroomingbythelake.com", "adjective": "modern", "business_type": "pet grooming", "location": "by the lake", "version": "v1"}
+{"business_description": "techie vegan bakery in NYC", "target_domain": "techieveganbakeryinnyc.io", "adjective": "techie", "business_type": "vegan bakery", "location": "in NYC", "version": "v1"}
+{"business_description": "cozy coffee shop in LA", "target_domain": "cozycoffeeshopinla.io", "adjective": "cozy", "business_type": "coffee shop", "location": "in LA", "version": "v1"}
+{"business_description": "green pet grooming downtown", "target_domain": "greenpetgroomingdowntown.biz", "adjective": "green", "business_type": "pet grooming", "location": "downtown", "version": "v1"}
+{"business_description": "smart AI startup in Silicon Valley", "target_domain": "smartaistartupinsiliconvalley.io", "adjective": "smart", "business_type": "AI startup", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "cozy law firm by the lake", "target_domain": "cozylawfirmbythelake.com", "adjective": "cozy", "business_type": "law firm", "location": "by the lake", "version": "v1"}
+{"business_description": "techie coffee shop in Silicon Valley", "target_domain": "techiecoffeeshopinsiliconvalley.biz", "adjective": "techie", "business_type": "coffee shop", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "modern AI startup near the airport", "target_domain": "modernaistartupneartheairport.biz", "adjective": "modern", "business_type": "AI startup", "location": "near the airport", "version": "v1"}
+{"business_description": "cozy toy store near the airport", "target_domain": "cozytoystoreneartheairport.org", "adjective": "cozy", "business_type": "toy store", "location": "near the airport", "version": "v1"}
+{"business_description": "organic fitness center on Main Street", "target_domain": "organicfitnesscenteronmainstreet.biz", "adjective": "organic", "business_type": "fitness center", "location": "on Main Street", "version": "v1"}
+{"business_description": "cozy real estate agency downtown", "target_domain": "cozyrealestateagencydowntown.biz", "adjective": "cozy", "business_type": "real estate agency", "location": "downtown", "version": "v1"}
+{"business_description": "smart vegan bakery in Chicago", "target_domain": "smartveganbakeryinchicago.com", "adjective": "smart", "business_type": "vegan bakery", "location": "in Chicago", "version": "v1"}
+{"business_description": "organic bookstore in a small town", "target_domain": "organicbookstoreinasmalltown.io", "adjective": "organic", "business_type": "bookstore", "location": "in a small town", "version": "v1"}
+{"business_description": "quick bookstore in NYC", "target_domain": "quickbookstoreinnyc.com", "adjective": "quick", "business_type": "bookstore", "location": "in NYC", "version": "v1"}
+{"business_description": "fresh toy store downtown", "target_domain": "freshtoystoredowntown.org", "adjective": "fresh", "business_type": "toy store", "location": "downtown", "version": "v1"}
+{"business_description": "modern pet grooming by the lake", "target_domain": "modernpetgroomingbythelake.biz", "adjective": "modern", "business_type": "pet grooming", "location": "by the lake", "version": "v1"}
+{"business_description": "fresh fitness center in a small town", "target_domain": "freshfitnesscenterinasmalltown.biz", "adjective": "fresh", "business_type": "fitness center", "location": "in a small town", "version": "v1"}
+{"business_description": "organic AI startup by the lake", "target_domain": "organicaistartupbythelake.com", "adjective": "organic", "business_type": "AI startup", "location": "by the lake", "version": "v1"}
+{"business_description": "cozy coffee shop by the lake", "target_domain": "cozycoffeeshopbythelake.biz", "adjective": "cozy", "business_type": "coffee shop", "location": "by the lake", "version": "v1"}
+{"business_description": "fresh coffee shop downtown", "target_domain": "freshcoffeeshopdowntown.net", "adjective": "fresh", "business_type": "coffee shop", "location": "downtown", "version": "v1"}
+{"business_description": "techie law firm downtown", "target_domain": "techielawfirmdowntown.io", "adjective": "techie", "business_type": "law firm", "location": "downtown", "version": "v1"}
+{"business_description": "modern bookstore in a small town", "target_domain": "modernbookstoreinasmalltown.net", "adjective": "modern", "business_type": "bookstore", "location": "in a small town", "version": "v1"}
+{"business_description": "smart fitness center in Silicon Valley", "target_domain": "smartfitnesscenterinsiliconvalley.biz", "adjective": "smart", "business_type": "fitness center", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "modern AI startup near the airport", "target_domain": "modernaistartupneartheairport.biz", "adjective": "modern", "business_type": "AI startup", "location": "near the airport", "version": "v1"}
+{"business_description": "smart bookstore on Main Street", "target_domain": "smartbookstoreonmainstreet.net", "adjective": "smart", "business_type": "bookstore", "location": "on Main Street", "version": "v1"}
+{"business_description": "green car dealership downtown", "target_domain": "greencardealershipdowntown.org", "adjective": "green", "business_type": "car dealership", "location": "downtown", "version": "v1"}
+{"business_description": "green fitness center in NYC", "target_domain": "greenfitnesscenterinnyc.org", "adjective": "green", "business_type": "fitness center", "location": "in NYC", "version": "v1"}
+{"business_description": "fresh car dealership on Main Street", "target_domain": "freshcardealershiponmainstreet.biz", "adjective": "fresh", "business_type": "car dealership", "location": "on Main Street", "version": "v1"}
+{"business_description": "organic pet grooming in a small town", "target_domain": "organicpetgroominginasmalltown.biz", "adjective": "organic", "business_type": "pet grooming", "location": "in a small town", "version": "v1"}
+{"business_description": "green real estate agency on Main Street", "target_domain": "greenrealestateagencyonmainstreet.org", "adjective": "green", "business_type": "real estate agency", "location": "on Main Street", "version": "v1"}
+{"business_description": "global law firm downtown", "target_domain": "globallawfirmdowntown.biz", "adjective": "global", "business_type": "law firm", "location": "downtown", "version": "v1"}
+{"business_description": "cozy car dealership on Main Street", "target_domain": "cozycardealershiponmainstreet.net", "adjective": "cozy", "business_type": "car dealership", "location": "on Main Street", "version": "v1"}
+{"business_description": "smart toy store on Main Street", "target_domain": "smarttoystoreonmainstreet.org", "adjective": "smart", "business_type": "toy store", "location": "on Main Street", "version": "v1"}
+{"business_description": "vintage pet grooming on Main Street", "target_domain": "vintagepetgroomingonmainstreet.io", "adjective": "vintage", "business_type": "pet grooming", "location": "on Main Street", "version": "v1"}
+{"business_description": "global toy store in LA", "target_domain": "globaltoystoreinla.net", "adjective": "global", "business_type": "toy store", "location": "in LA", "version": "v1"}
+{"business_description": "fresh fitness center in Chicago", "target_domain": "freshfitnesscenterinchicago.net", "adjective": "fresh", "business_type": "fitness center", "location": "in Chicago", "version": "v1"}
+{"business_description": "organic pet grooming on Main Street", "target_domain": "organicpetgroomingonmainstreet.org", "adjective": "organic", "business_type": "pet grooming", "location": "on Main Street", "version": "v1"}
+{"business_description": "fresh AI startup on Main Street", "target_domain": "freshaistartuponmainstreet.net", "adjective": "fresh", "business_type": "AI startup", "location": "on Main Street", "version": "v1"}
+{"business_description": "cozy real estate agency in Chicago", "target_domain": "cozyrealestateagencyinchicago.com", "adjective": "cozy", "business_type": "real estate agency", "location": "in Chicago", "version": "v1"}
+{"business_description": "organic fitness center in Silicon Valley", "target_domain": "organicfitnesscenterinsiliconvalley.org", "adjective": "organic", "business_type": "fitness center", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "modern pet grooming in LA", "target_domain": "modernpetgroominginla.org", "adjective": "modern", "business_type": "pet grooming", "location": "in LA", "version": "v1"}
+{"business_description": "global law firm in a small town", "target_domain": "globallawfirminasmalltown.net", "adjective": "global", "business_type": "law firm", "location": "in a small town", "version": "v1"}
+{"business_description": "quick real estate agency in LA", "target_domain": "quickrealestateagencyinla.net", "adjective": "quick", "business_type": "real estate agency", "location": "in LA", "version": "v1"}
+{"business_description": "cozy real estate agency near the airport", "target_domain": "cozyrealestateagencyneartheairport.net", "adjective": "cozy", "business_type": "real estate agency", "location": "near the airport", "version": "v1"}
+{"business_description": "cozy bookstore by the lake", "target_domain": "cozybookstorebythelake.org", "adjective": "cozy", "business_type": "bookstore", "location": "by the lake", "version": "v1"}
+{"business_description": "techie bookstore in LA", "target_domain": "techiebookstoreinla.net", "adjective": "techie", "business_type": "bookstore", "location": "in LA", "version": "v1"}
+{"business_description": "organic fitness center in LA", "target_domain": "organicfitnesscenterinla.biz", "adjective": "organic", "business_type": "fitness center", "location": "in LA", "version": "v1"}
+{"business_description": "smart coffee shop in Texas", "target_domain": "smartcoffeeshopintexas.io", "adjective": "smart", "business_type": "coffee shop", "location": "in Texas", "version": "v1"}
+{"business_description": "quick real estate agency in Texas", "target_domain": "quickrealestateagencyintexas.net", "adjective": "quick", "business_type": "real estate agency", "location": "in Texas", "version": "v1"}
+{"business_description": "modern toy store on Main Street", "target_domain": "moderntoystoreonmainstreet.com", "adjective": "modern", "business_type": "toy store", "location": "on Main Street", "version": "v1"}
+{"business_description": "modern pet grooming downtown", "target_domain": "modernpetgroomingdowntown.biz", "adjective": "modern", "business_type": "pet grooming", "location": "downtown", "version": "v1"}
+{"business_description": "vintage fitness center in a small town", "target_domain": "vintagefitnesscenterinasmalltown.biz", "adjective": "vintage", "business_type": "fitness center", "location": "in a small town", "version": "v1"}
+{"business_description": "organic vegan bakery by the lake", "target_domain": "organicveganbakerybythelake.io", "adjective": "organic", "business_type": "vegan bakery", "location": "by the lake", "version": "v1"}
+{"business_description": "global toy store near the airport", "target_domain": "globaltoystoreneartheairport.io", "adjective": "global", "business_type": "toy store", "location": "near the airport", "version": "v1"}
+{"business_description": "vintage AI startup in LA", "target_domain": "vintageaistartupinla.org", "adjective": "vintage", "business_type": "AI startup", "location": "in LA", "version": "v1"}
+{"business_description": "modern bookstore on Main Street", "target_domain": "modernbookstoreonmainstreet.org", "adjective": "modern", "business_type": "bookstore", "location": "on Main Street", "version": "v1"}
+{"business_description": "modern law firm in NYC", "target_domain": "modernlawfirminnyc.net", "adjective": "modern", "business_type": "law firm", "location": "in NYC", "version": "v1"}
+{"business_description": "global coffee shop in NYC", "target_domain": "globalcoffeeshopinnyc.com", "adjective": "global", "business_type": "coffee shop", "location": "in NYC", "version": "v1"}
+{"business_description": "vintage car dealership in NYC", "target_domain": "vintagecardealershipinnyc.net", "adjective": "vintage", "business_type": "car dealership", "location": "in NYC", "version": "v1"}
+{"business_description": "organic pet grooming in Silicon Valley", "target_domain": "organicpetgroominginsiliconvalley.net", "adjective": "organic", "business_type": "pet grooming", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "vintage AI startup near the airport", "target_domain": "vintageaistartupneartheairport.com", "adjective": "vintage", "business_type": "AI startup", "location": "near the airport", "version": "v1"}
+{"business_description": "techie vegan bakery near the airport", "target_domain": "techieveganbakeryneartheairport.io", "adjective": "techie", "business_type": "vegan bakery", "location": "near the airport", "version": "v1"}
+{"business_description": "cozy fitness center in Chicago", "target_domain": "cozyfitnesscenterinchicago.org", "adjective": "cozy", "business_type": "fitness center", "location": "in Chicago", "version": "v1"}
+{"business_description": "smart law firm downtown", "target_domain": "smartlawfirmdowntown.net", "adjective": "smart", "business_type": "law firm", "location": "downtown", "version": "v1"}
+{"business_description": "fresh toy store on Main Street", "target_domain": "freshtoystoreonmainstreet.org", "adjective": "fresh", "business_type": "toy store", "location": "on Main Street", "version": "v1"}
+{"business_description": "vintage bookstore by the lake", "target_domain": "vintagebookstorebythelake.biz", "adjective": "vintage", "business_type": "bookstore", "location": "by the lake", "version": "v1"}
+{"business_description": "fresh vegan bakery on Main Street", "target_domain": "freshveganbakeryonmainstreet.com", "adjective": "fresh", "business_type": "vegan bakery", "location": "on Main Street", "version": "v1"}
+{"business_description": "quick bookstore on Main Street", "target_domain": "quickbookstoreonmainstreet.org", "adjective": "quick", "business_type": "bookstore", "location": "on Main Street", "version": "v1"}
+{"business_description": "fresh pet grooming in Chicago", "target_domain": "freshpetgroominginchicago.org", "adjective": "fresh", "business_type": "pet grooming", "location": "in Chicago", "version": "v1"}
+{"business_description": "modern real estate agency near the airport", "target_domain": "modernrealestateagencyneartheairport.net", "adjective": "modern", "business_type": "real estate agency", "location": "near the airport", "version": "v1"}
+{"business_description": "green real estate agency downtown", "target_domain": "greenrealestateagencydowntown.com", "adjective": "green", "business_type": "real estate agency", "location": "downtown", "version": "v1"}
+{"business_description": "modern vegan bakery in Chicago", "target_domain": "modernveganbakeryinchicago.org", "adjective": "modern", "business_type": "vegan bakery", "location": "in Chicago", "version": "v1"}
+{"business_description": "organic coffee shop downtown", "target_domain": "organiccoffeeshopdowntown.net", "adjective": "organic", "business_type": "coffee shop", "location": "downtown", "version": "v1"}
+{"business_description": "global toy store by the lake", "target_domain": "globaltoystorebythelake.net", "adjective": "global", "business_type": "toy store", "location": "by the lake", "version": "v1"}
+{"business_description": "vintage pet grooming near the airport", "target_domain": "vintagepetgroomingneartheairport.biz", "adjective": "vintage", "business_type": "pet grooming", "location": "near the airport", "version": "v1"}
+{"business_description": "global toy store on Main Street", "target_domain": "globaltoystoreonmainstreet.net", "adjective": "global", "business_type": "toy store", "location": "on Main Street", "version": "v1"}
+{"business_description": "quick coffee shop downtown", "target_domain": "quickcoffeeshopdowntown.net", "adjective": "quick", "business_type": "coffee shop", "location": "downtown", "version": "v1"}
+{"business_description": "quick AI startup in Texas", "target_domain": "quickaistartupintexas.com", "adjective": "quick", "business_type": "AI startup", "location": "in Texas", "version": "v1"}
+{"business_description": "fresh bookstore by the lake", "target_domain": "freshbookstorebythelake.com", "adjective": "fresh", "business_type": "bookstore", "location": "by the lake", "version": "v1"}
+{"business_description": "smart bookstore on Main Street", "target_domain": "smartbookstoreonmainstreet.biz", "adjective": "smart", "business_type": "bookstore", "location": "on Main Street", "version": "v1"}
+{"business_description": "modern real estate agency in LA", "target_domain": "modernrealestateagencyinla.io", "adjective": "modern", "business_type": "real estate agency", "location": "in LA", "version": "v1"}
+{"business_description": "cozy fitness center in a small town", "target_domain": "cozyfitnesscenterinasmalltown.org", "adjective": "cozy", "business_type": "fitness center", "location": "in a small town", "version": "v1"}
+{"business_description": "vintage coffee shop by the lake", "target_domain": "vintagecoffeeshopbythelake.com", "adjective": "vintage", "business_type": "coffee shop", "location": "by the lake", "version": "v1"}
+{"business_description": "green vegan bakery by the lake", "target_domain": "greenveganbakerybythelake.net", "adjective": "green", "business_type": "vegan bakery", "location": "by the lake", "version": "v1"}
+{"business_description": "organic vegan bakery near the airport", "target_domain": "organicveganbakeryneartheairport.net", "adjective": "organic", "business_type": "vegan bakery", "location": "near the airport", "version": "v1"}
+{"business_description": "green coffee shop in NYC", "target_domain": "greencoffeeshopinnyc.org", "adjective": "green", "business_type": "coffee shop", "location": "in NYC", "version": "v1"}
+{"business_description": "organic vegan bakery in Silicon Valley", "target_domain": "organicveganbakeryinsiliconvalley.com", "adjective": "organic", "business_type": "vegan bakery", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "vintage real estate agency in Chicago", "target_domain": "vintagerealestateagencyinchicago.net", "adjective": "vintage", "business_type": "real estate agency", "location": "in Chicago", "version": "v1"}
+{"business_description": "global law firm in Silicon Valley", "target_domain": "globallawfirminsiliconvalley.net", "adjective": "global", "business_type": "law firm", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "fresh law firm in NYC", "target_domain": "freshlawfirminnyc.net", "adjective": "fresh", "business_type": "law firm", "location": "in NYC", "version": "v1"}
+{"business_description": "cozy toy store near the airport", "target_domain": "cozytoystoreneartheairport.biz", "adjective": "cozy", "business_type": "toy store", "location": "near the airport", "version": "v1"}
+{"business_description": "vintage pet grooming by the lake", "target_domain": "vintagepetgroomingbythelake.io", "adjective": "vintage", "business_type": "pet grooming", "location": "by the lake", "version": "v1"}
+{"business_description": "cozy real estate agency in Silicon Valley", "target_domain": "cozyrealestateagencyinsiliconvalley.biz", "adjective": "cozy", "business_type": "real estate agency", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "quick coffee shop downtown", "target_domain": "quickcoffeeshopdowntown.com", "adjective": "quick", "business_type": "coffee shop", "location": "downtown", "version": "v1"}
+{"business_description": "vintage law firm in LA", "target_domain": "vintagelawfirminla.net", "adjective": "vintage", "business_type": "law firm", "location": "in LA", "version": "v1"}
+{"business_description": "quick real estate agency in NYC", "target_domain": "quickrealestateagencyinnyc.com", "adjective": "quick", "business_type": "real estate agency", "location": "in NYC", "version": "v1"}
+{"business_description": "vintage pet grooming in Texas", "target_domain": "vintagepetgroomingintexas.biz", "adjective": "vintage", "business_type": "pet grooming", "location": "in Texas", "version": "v1"}
+{"business_description": "green coffee shop by the lake", "target_domain": "greencoffeeshopbythelake.org", "adjective": "green", "business_type": "coffee shop", "location": "by the lake", "version": "v1"}
+{"business_description": "techie car dealership by the lake", "target_domain": "techiecardealershipbythelake.biz", "adjective": "techie", "business_type": "car dealership", "location": "by the lake", "version": "v1"}
+{"business_description": "global AI startup near the airport", "target_domain": "globalaistartupneartheairport.com", "adjective": "global", "business_type": "AI startup", "location": "near the airport", "version": "v1"}
+{"business_description": "quick car dealership in Chicago", "target_domain": "quickcardealershipinchicago.net", "adjective": "quick", "business_type": "car dealership", "location": "in Chicago", "version": "v1"}
+{"business_description": "modern car dealership in a small town", "target_domain": "moderncardealershipinasmalltown.biz", "adjective": "modern", "business_type": "car dealership", "location": "in a small town", "version": "v1"}
+{"business_description": "global vegan bakery by the lake", "target_domain": "globalveganbakerybythelake.biz", "adjective": "global", "business_type": "vegan bakery", "location": "by the lake", "version": "v1"}
+{"business_description": "global vegan bakery in a small town", "target_domain": "globalveganbakeryinasmalltown.org", "adjective": "global", "business_type": "vegan bakery", "location": "in a small town", "version": "v1"}
+{"business_description": "global pet grooming in LA", "target_domain": "globalpetgroominginla.net", "adjective": "global", "business_type": "pet grooming", "location": "in LA", "version": "v1"}
+{"business_description": "quick pet grooming in a small town", "target_domain": "quickpetgroominginasmalltown.io", "adjective": "quick", "business_type": "pet grooming", "location": "in a small town", "version": "v1"}
+{"business_description": "quick bookstore in Chicago", "target_domain": "quickbookstoreinchicago.com", "adjective": "quick", "business_type": "bookstore", "location": "in Chicago", "version": "v1"}
+{"business_description": "quick real estate agency in Texas", "target_domain": "quickrealestateagencyintexas.biz", "adjective": "quick", "business_type": "real estate agency", "location": "in Texas", "version": "v1"}
+{"business_description": "smart fitness center in Silicon Valley", "target_domain": "smartfitnesscenterinsiliconvalley.biz", "adjective": "smart", "business_type": "fitness center", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "fresh coffee shop in a small town", "target_domain": "freshcoffeeshopinasmalltown.biz", "adjective": "fresh", "business_type": "coffee shop", "location": "in a small town", "version": "v1"}
+{"business_description": "modern law firm in NYC", "target_domain": "modernlawfirminnyc.io", "adjective": "modern", "business_type": "law firm", "location": "in NYC", "version": "v1"}
+{"business_description": "modern AI startup downtown", "target_domain": "modernaistartupdowntown.io", "adjective": "modern", "business_type": "AI startup", "location": "downtown", "version": "v1"}
+{"business_description": "green real estate agency in Chicago", "target_domain": "greenrealestateagencyinchicago.org", "adjective": "green", "business_type": "real estate agency", "location": "in Chicago", "version": "v1"}
+{"business_description": "techie pet grooming in NYC", "target_domain": "techiepetgroominginnyc.org", "adjective": "techie", "business_type": "pet grooming", "location": "in NYC", "version": "v1"}
+{"business_description": "green coffee shop downtown", "target_domain": "greencoffeeshopdowntown.net", "adjective": "green", "business_type": "coffee shop", "location": "downtown", "version": "v1"}
+{"business_description": "cozy coffee shop on Main Street", "target_domain": "cozycoffeeshoponmainstreet.com", "adjective": "cozy", "business_type": "coffee shop", "location": "on Main Street", "version": "v1"}
+{"business_description": "global real estate agency downtown", "target_domain": "globalrealestateagencydowntown.com", "adjective": "global", "business_type": "real estate agency", "location": "downtown", "version": "v1"}
+{"business_description": "organic law firm in Chicago", "target_domain": "organiclawfirminchicago.biz", "adjective": "organic", "business_type": "law firm", "location": "in Chicago", "version": "v1"}
+{"business_description": "vintage toy store in NYC", "target_domain": "vintagetoystoreinnyc.biz", "adjective": "vintage", "business_type": "toy store", "location": "in NYC", "version": "v1"}
+{"business_description": "organic toy store near the airport", "target_domain": "organictoystoreneartheairport.org", "adjective": "organic", "business_type": "toy store", "location": "near the airport", "version": "v1"}
+{"business_description": "cozy bookstore in LA", "target_domain": "cozybookstoreinla.com", "adjective": "cozy", "business_type": "bookstore", "location": "in LA", "version": "v1"}
+{"business_description": "cozy fitness center in NYC", "target_domain": "cozyfitnesscenterinnyc.io", "adjective": "cozy", "business_type": "fitness center", "location": "in NYC", "version": "v1"}
+{"business_description": "fresh car dealership near the airport", "target_domain": "freshcardealershipneartheairport.org", "adjective": "fresh", "business_type": "car dealership", "location": "near the airport", "version": "v1"}
+{"business_description": "techie vegan bakery in a small town", "target_domain": "techieveganbakeryinasmalltown.com", "adjective": "techie", "business_type": "vegan bakery", "location": "in a small town", "version": "v1"}
+{"business_description": "quick law firm in LA", "target_domain": "quicklawfirminla.io", "adjective": "quick", "business_type": "law firm", "location": "in LA", "version": "v1"}
+{"business_description": "global law firm in Silicon Valley", "target_domain": "globallawfirminsiliconvalley.com", "adjective": "global", "business_type": "law firm", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "techie vegan bakery in LA", "target_domain": "techieveganbakeryinla.io", "adjective": "techie", "business_type": "vegan bakery", "location": "in LA", "version": "v1"}
+{"business_description": "cozy vegan bakery near the airport", "target_domain": "cozyveganbakeryneartheairport.com", "adjective": "cozy", "business_type": "vegan bakery", "location": "near the airport", "version": "v1"}
+{"business_description": "vintage pet grooming in LA", "target_domain": "vintagepetgroominginla.io", "adjective": "vintage", "business_type": "pet grooming", "location": "in LA", "version": "v1"}
+{"business_description": "cozy vegan bakery by the lake", "target_domain": "cozyveganbakerybythelake.net", "adjective": "cozy", "business_type": "vegan bakery", "location": "by the lake", "version": "v1"}
+{"business_description": "modern fitness center by the lake", "target_domain": "modernfitnesscenterbythelake.com", "adjective": "modern", "business_type": "fitness center", "location": "by the lake", "version": "v1"}
+{"business_description": "fresh bookstore in a small town", "target_domain": "freshbookstoreinasmalltown.org", "adjective": "fresh", "business_type": "bookstore", "location": "in a small town", "version": "v1"}
+{"business_description": "modern toy store in LA", "target_domain": "moderntoystoreinla.io", "adjective": "modern", "business_type": "toy store", "location": "in LA", "version": "v1"}
+{"business_description": "fresh real estate agency on Main Street", "target_domain": "freshrealestateagencyonmainstreet.biz", "adjective": "fresh", "business_type": "real estate agency", "location": "on Main Street", "version": "v1"}
+{"business_description": "organic bookstore in Silicon Valley", "target_domain": "organicbookstoreinsiliconvalley.net", "adjective": "organic", "business_type": "bookstore", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "modern pet grooming in Texas", "target_domain": "modernpetgroomingintexas.com", "adjective": "modern", "business_type": "pet grooming", "location": "in Texas", "version": "v1"}
+{"business_description": "fresh pet grooming in Silicon Valley", "target_domain": "freshpetgroominginsiliconvalley.biz", "adjective": "fresh", "business_type": "pet grooming", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "global car dealership in a small town", "target_domain": "globalcardealershipinasmalltown.biz", "adjective": "global", "business_type": "car dealership", "location": "in a small town", "version": "v1"}
+{"business_description": "green bookstore in Chicago", "target_domain": "greenbookstoreinchicago.org", "adjective": "green", "business_type": "bookstore", "location": "in Chicago", "version": "v1"}
+{"business_description": "green toy store on Main Street", "target_domain": "greentoystoreonmainstreet.io", "adjective": "green", "business_type": "toy store", "location": "on Main Street", "version": "v1"}
+{"business_description": "fresh pet grooming in Silicon Valley", "target_domain": "freshpetgroominginsiliconvalley.net", "adjective": "fresh", "business_type": "pet grooming", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "green AI startup near the airport", "target_domain": "greenaistartupneartheairport.io", "adjective": "green", "business_type": "AI startup", "location": "near the airport", "version": "v1"}
+{"business_description": "cozy AI startup in Texas", "target_domain": "cozyaistartupintexas.io", "adjective": "cozy", "business_type": "AI startup", "location": "in Texas", "version": "v1"}
+{"business_description": "organic toy store downtown", "target_domain": "organictoystoredowntown.net", "adjective": "organic", "business_type": "toy store", "location": "downtown", "version": "v1"}
+{"business_description": "cozy real estate agency downtown", "target_domain": "cozyrealestateagencydowntown.biz", "adjective": "cozy", "business_type": "real estate agency", "location": "downtown", "version": "v1"}
+{"business_description": "smart law firm in NYC", "target_domain": "smartlawfirminnyc.org", "adjective": "smart", "business_type": "law firm", "location": "in NYC", "version": "v1"}
+{"business_description": "quick toy store near the airport", "target_domain": "quicktoystoreneartheairport.net", "adjective": "quick", "business_type": "toy store", "location": "near the airport", "version": "v1"}
+{"business_description": "quick coffee shop in NYC", "target_domain": "quickcoffeeshopinnyc.biz", "adjective": "quick", "business_type": "coffee shop", "location": "in NYC", "version": "v1"}
+{"business_description": "modern real estate agency near the airport", "target_domain": "modernrealestateagencyneartheairport.biz", "adjective": "modern", "business_type": "real estate agency", "location": "near the airport", "version": "v1"}
+{"business_description": "quick law firm near the airport", "target_domain": "quicklawfirmneartheairport.com", "adjective": "quick", "business_type": "law firm", "location": "near the airport", "version": "v1"}
+{"business_description": "smart car dealership in NYC", "target_domain": "smartcardealershipinnyc.com", "adjective": "smart", "business_type": "car dealership", "location": "in NYC", "version": "v1"}
+{"business_description": "quick coffee shop in Texas", "target_domain": "quickcoffeeshopintexas.biz", "adjective": "quick", "business_type": "coffee shop", "location": "in Texas", "version": "v1"}
+{"business_description": "smart pet grooming near the airport", "target_domain": "smartpetgroomingneartheairport.org", "adjective": "smart", "business_type": "pet grooming", "location": "near the airport", "version": "v1"}
+{"business_description": "cozy pet grooming in Silicon Valley", "target_domain": "cozypetgroominginsiliconvalley.io", "adjective": "cozy", "business_type": "pet grooming", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "fresh coffee shop on Main Street", "target_domain": "freshcoffeeshoponmainstreet.net", "adjective": "fresh", "business_type": "coffee shop", "location": "on Main Street", "version": "v1"}
+{"business_description": "techie law firm downtown", "target_domain": "techielawfirmdowntown.org", "adjective": "techie", "business_type": "law firm", "location": "downtown", "version": "v1"}
+{"business_description": "quick pet grooming in NYC", "target_domain": "quickpetgroominginnyc.org", "adjective": "quick", "business_type": "pet grooming", "location": "in NYC", "version": "v1"}
+{"business_description": "global vegan bakery on Main Street", "target_domain": "globalveganbakeryonmainstreet.net", "adjective": "global", "business_type": "vegan bakery", "location": "on Main Street", "version": "v1"}
+{"business_description": "techie real estate agency in Texas", "target_domain": "techierealestateagencyintexas.biz", "adjective": "techie", "business_type": "real estate agency", "location": "in Texas", "version": "v1"}
+{"business_description": "organic toy store in Chicago", "target_domain": "organictoystoreinchicago.com", "adjective": "organic", "business_type": "toy store", "location": "in Chicago", "version": "v1"}
+{"business_description": "smart fitness center in Silicon Valley", "target_domain": "smartfitnesscenterinsiliconvalley.org", "adjective": "smart", "business_type": "fitness center", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "cozy AI startup downtown", "target_domain": "cozyaistartupdowntown.org", "adjective": "cozy", "business_type": "AI startup", "location": "downtown", "version": "v1"}
+{"business_description": "cozy real estate agency in a small town", "target_domain": "cozyrealestateagencyinasmalltown.biz", "adjective": "cozy", "business_type": "real estate agency", "location": "in a small town", "version": "v1"}
+{"business_description": "organic toy store in NYC", "target_domain": "organictoystoreinnyc.net", "adjective": "organic", "business_type": "toy store", "location": "in NYC", "version": "v1"}
+{"business_description": "global pet grooming in Silicon Valley", "target_domain": "globalpetgroominginsiliconvalley.io", "adjective": "global", "business_type": "pet grooming", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "global real estate agency by the lake", "target_domain": "globalrealestateagencybythelake.com", "adjective": "global", "business_type": "real estate agency", "location": "by the lake", "version": "v1"}
+{"business_description": "green car dealership in Silicon Valley", "target_domain": "greencardealershipinsiliconvalley.com", "adjective": "green", "business_type": "car dealership", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "cozy real estate agency by the lake", "target_domain": "cozyrealestateagencybythelake.biz", "adjective": "cozy", "business_type": "real estate agency", "location": "by the lake", "version": "v1"}
+{"business_description": "quick fitness center by the lake", "target_domain": "quickfitnesscenterbythelake.org", "adjective": "quick", "business_type": "fitness center", "location": "by the lake", "version": "v1"}
+{"business_description": "vintage toy store by the lake", "target_domain": "vintagetoystorebythelake.com", "adjective": "vintage", "business_type": "toy store", "location": "by the lake", "version": "v1"}
+{"business_description": "fresh bookstore in Chicago", "target_domain": "freshbookstoreinchicago.org", "adjective": "fresh", "business_type": "bookstore", "location": "in Chicago", "version": "v1"}
+{"business_description": "modern AI startup in NYC", "target_domain": "modernaistartupinnyc.net", "adjective": "modern", "business_type": "AI startup", "location": "in NYC", "version": "v1"}
+{"business_description": "green bookstore in NYC", "target_domain": "greenbookstoreinnyc.io", "adjective": "green", "business_type": "bookstore", "location": "in NYC", "version": "v1"}
+{"business_description": "fresh pet grooming in Chicago", "target_domain": "freshpetgroominginchicago.com", "adjective": "fresh", "business_type": "pet grooming", "location": "in Chicago", "version": "v1"}
+{"business_description": "green toy store in a small town", "target_domain": "greentoystoreinasmalltown.org", "adjective": "green", "business_type": "toy store", "location": "in a small town", "version": "v1"}
+{"business_description": "vintage law firm downtown", "target_domain": "vintagelawfirmdowntown.org", "adjective": "vintage", "business_type": "law firm", "location": "downtown", "version": "v1"}
+{"business_description": "green pet grooming in Silicon Valley", "target_domain": "greenpetgroominginsiliconvalley.org", "adjective": "green", "business_type": "pet grooming", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "green coffee shop in Chicago", "target_domain": "greencoffeeshopinchicago.net", "adjective": "green", "business_type": "coffee shop", "location": "in Chicago", "version": "v1"}
+{"business_description": "techie fitness center in Silicon Valley", "target_domain": "techiefitnesscenterinsiliconvalley.io", "adjective": "techie", "business_type": "fitness center", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "organic coffee shop downtown", "target_domain": "organiccoffeeshopdowntown.com", "adjective": "organic", "business_type": "coffee shop", "location": "downtown", "version": "v1"}
+{"business_description": "green vegan bakery by the lake", "target_domain": "greenveganbakerybythelake.com", "adjective": "green", "business_type": "vegan bakery", "location": "by the lake", "version": "v1"}
+{"business_description": "organic toy store in LA", "target_domain": "organictoystoreinla.biz", "adjective": "organic", "business_type": "toy store", "location": "in LA", "version": "v1"}
+{"business_description": "vintage law firm on Main Street", "target_domain": "vintagelawfirmonmainstreet.net", "adjective": "vintage", "business_type": "law firm", "location": "on Main Street", "version": "v1"}
+{"business_description": "smart pet grooming in NYC", "target_domain": "smartpetgroominginnyc.biz", "adjective": "smart", "business_type": "pet grooming", "location": "in NYC", "version": "v1"}
+{"business_description": "fresh AI startup on Main Street", "target_domain": "freshaistartuponmainstreet.biz", "adjective": "fresh", "business_type": "AI startup", "location": "on Main Street", "version": "v1"}
+{"business_description": "global car dealership on Main Street", "target_domain": "globalcardealershiponmainstreet.net", "adjective": "global", "business_type": "car dealership", "location": "on Main Street", "version": "v1"}
+{"business_description": "green car dealership downtown", "target_domain": "greencardealershipdowntown.net", "adjective": "green", "business_type": "car dealership", "location": "downtown", "version": "v1"}
+{"business_description": "smart AI startup in Silicon Valley", "target_domain": "smartaistartupinsiliconvalley.org", "adjective": "smart", "business_type": "AI startup", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "global real estate agency near the airport", "target_domain": "globalrealestateagencyneartheairport.com", "adjective": "global", "business_type": "real estate agency", "location": "near the airport", "version": "v1"}
+{"business_description": "quick car dealership near the airport", "target_domain": "quickcardealershipneartheairport.com", "adjective": "quick", "business_type": "car dealership", "location": "near the airport", "version": "v1"}
+{"business_description": "quick vegan bakery on Main Street", "target_domain": "quickveganbakeryonmainstreet.biz", "adjective": "quick", "business_type": "vegan bakery", "location": "on Main Street", "version": "v1"}
+{"business_description": "quick vegan bakery downtown", "target_domain": "quickveganbakerydowntown.org", "adjective": "quick", "business_type": "vegan bakery", "location": "downtown", "version": "v1"}
+{"business_description": "vintage toy store in Chicago", "target_domain": "vintagetoystoreinchicago.org", "adjective": "vintage", "business_type": "toy store", "location": "in Chicago", "version": "v1"}
+{"business_description": "smart AI startup on Main Street", "target_domain": "smartaistartuponmainstreet.com", "adjective": "smart", "business_type": "AI startup", "location": "on Main Street", "version": "v1"}
+{"business_description": "organic AI startup in Chicago", "target_domain": "organicaistartupinchicago.biz", "adjective": "organic", "business_type": "AI startup", "location": "in Chicago", "version": "v1"}
+{"business_description": "vintage vegan bakery in NYC", "target_domain": "vintageveganbakeryinnyc.io", "adjective": "vintage", "business_type": "vegan bakery", "location": "in NYC", "version": "v1"}
+{"business_description": "modern AI startup near the airport", "target_domain": "modernaistartupneartheairport.com", "adjective": "modern", "business_type": "AI startup", "location": "near the airport", "version": "v1"}
+{"business_description": "organic law firm on Main Street", "target_domain": "organiclawfirmonmainstreet.io", "adjective": "organic", "business_type": "law firm", "location": "on Main Street", "version": "v1"}
+{"business_description": "quick real estate agency on Main Street", "target_domain": "quickrealestateagencyonmainstreet.net", "adjective": "quick", "business_type": "real estate agency", "location": "on Main Street", "version": "v1"}
+{"business_description": "techie law firm in a small town", "target_domain": "techielawfirminasmalltown.biz", "adjective": "techie", "business_type": "law firm", "location": "in a small town", "version": "v1"}
+{"business_description": "quick car dealership in Silicon Valley", "target_domain": "quickcardealershipinsiliconvalley.io", "adjective": "quick", "business_type": "car dealership", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "global vegan bakery in Silicon Valley", "target_domain": "globalveganbakeryinsiliconvalley.org", "adjective": "global", "business_type": "vegan bakery", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "techie fitness center in Silicon Valley", "target_domain": "techiefitnesscenterinsiliconvalley.net", "adjective": "techie", "business_type": "fitness center", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "green AI startup in Texas", "target_domain": "greenaistartupintexas.biz", "adjective": "green", "business_type": "AI startup", "location": "in Texas", "version": "v1"}
+{"business_description": "quick car dealership in Texas", "target_domain": "quickcardealershipintexas.com", "adjective": "quick", "business_type": "car dealership", "location": "in Texas", "version": "v1"}
+{"business_description": "smart real estate agency in a small town", "target_domain": "smartrealestateagencyinasmalltown.com", "adjective": "smart", "business_type": "real estate agency", "location": "in a small town", "version": "v1"}
+{"business_description": "fresh pet grooming in LA", "target_domain": "freshpetgroominginla.io", "adjective": "fresh", "business_type": "pet grooming", "location": "in LA", "version": "v1"}
+{"business_description": "green real estate agency in NYC", "target_domain": "greenrealestateagencyinnyc.com", "adjective": "green", "business_type": "real estate agency", "location": "in NYC", "version": "v1"}
+{"business_description": "techie law firm in Texas", "target_domain": "techielawfirmintexas.org", "adjective": "techie", "business_type": "law firm", "location": "in Texas", "version": "v1"}
+{"business_description": "fresh coffee shop in a small town", "target_domain": "freshcoffeeshopinasmalltown.org", "adjective": "fresh", "business_type": "coffee shop", "location": "in a small town", "version": "v1"}
+{"business_description": "vintage toy store in Silicon Valley", "target_domain": "vintagetoystoreinsiliconvalley.org", "adjective": "vintage", "business_type": "toy store", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "fresh toy store on Main Street", "target_domain": "freshtoystoreonmainstreet.biz", "adjective": "fresh", "business_type": "toy store", "location": "on Main Street", "version": "v1"}
+{"business_description": "quick real estate agency on Main Street", "target_domain": "quickrealestateagencyonmainstreet.net", "adjective": "quick", "business_type": "real estate agency", "location": "on Main Street", "version": "v1"}
+{"business_description": "global vegan bakery in LA", "target_domain": "globalveganbakeryinla.biz", "adjective": "global", "business_type": "vegan bakery", "location": "in LA", "version": "v1"}
+{"business_description": "techie bookstore in Chicago", "target_domain": "techiebookstoreinchicago.org", "adjective": "techie", "business_type": "bookstore", "location": "in Chicago", "version": "v1"}
+{"business_description": "fresh car dealership in Chicago", "target_domain": "freshcardealershipinchicago.org", "adjective": "fresh", "business_type": "car dealership", "location": "in Chicago", "version": "v1"}
+{"business_description": "smart fitness center in NYC", "target_domain": "smartfitnesscenterinnyc.biz", "adjective": "smart", "business_type": "fitness center", "location": "in NYC", "version": "v1"}
+{"business_description": "techie fitness center by the lake", "target_domain": "techiefitnesscenterbythelake.biz", "adjective": "techie", "business_type": "fitness center", "location": "by the lake", "version": "v1"}
+{"business_description": "green car dealership in Chicago", "target_domain": "greencardealershipinchicago.net", "adjective": "green", "business_type": "car dealership", "location": "in Chicago", "version": "v1"}
+{"business_description": "modern car dealership in LA", "target_domain": "moderncardealershipinla.com", "adjective": "modern", "business_type": "car dealership", "location": "in LA", "version": "v1"}
+{"business_description": "modern vegan bakery in NYC", "target_domain": "modernveganbakeryinnyc.org", "adjective": "modern", "business_type": "vegan bakery", "location": "in NYC", "version": "v1"}
+{"business_description": "global vegan bakery in Texas", "target_domain": "globalveganbakeryintexas.org", "adjective": "global", "business_type": "vegan bakery", "location": "in Texas", "version": "v1"}
+{"business_description": "vintage fitness center in LA", "target_domain": "vintagefitnesscenterinla.net", "adjective": "vintage", "business_type": "fitness center", "location": "in LA", "version": "v1"}
+{"business_description": "techie fitness center in NYC", "target_domain": "techiefitnesscenterinnyc.io", "adjective": "techie", "business_type": "fitness center", "location": "in NYC", "version": "v1"}
+{"business_description": "green pet grooming near the airport", "target_domain": "greenpetgroomingneartheairport.biz", "adjective": "green", "business_type": "pet grooming", "location": "near the airport", "version": "v1"}
+{"business_description": "vintage real estate agency in Chicago", "target_domain": "vintagerealestateagencyinchicago.net", "adjective": "vintage", "business_type": "real estate agency", "location": "in Chicago", "version": "v1"}
+{"business_description": "green pet grooming in LA", "target_domain": "greenpetgroominginla.io", "adjective": "green", "business_type": "pet grooming", "location": "in LA", "version": "v1"}
+{"business_description": "quick vegan bakery near the airport", "target_domain": "quickveganbakeryneartheairport.org", "adjective": "quick", "business_type": "vegan bakery", "location": "near the airport", "version": "v1"}
+{"business_description": "organic bookstore in a small town", "target_domain": "organicbookstoreinasmalltown.biz", "adjective": "organic", "business_type": "bookstore", "location": "in a small town", "version": "v1"}
+{"business_description": "organic AI startup by the lake", "target_domain": "organicaistartupbythelake.io", "adjective": "organic", "business_type": "AI startup", "location": "by the lake", "version": "v1"}
+{"business_description": "quick car dealership downtown", "target_domain": "quickcardealershipdowntown.net", "adjective": "quick", "business_type": "car dealership", "location": "downtown", "version": "v1"}
+{"business_description": "quick vegan bakery in Silicon Valley", "target_domain": "quickveganbakeryinsiliconvalley.io", "adjective": "quick", "business_type": "vegan bakery", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "organic coffee shop by the lake", "target_domain": "organiccoffeeshopbythelake.biz", "adjective": "organic", "business_type": "coffee shop", "location": "by the lake", "version": "v1"}
+{"business_description": "fresh AI startup in Silicon Valley", "target_domain": "freshaistartupinsiliconvalley.com", "adjective": "fresh", "business_type": "AI startup", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "quick coffee shop in Chicago", "target_domain": "quickcoffeeshopinchicago.com", "adjective": "quick", "business_type": "coffee shop", "location": "in Chicago", "version": "v1"}
+{"business_description": "organic toy store by the lake", "target_domain": "organictoystorebythelake.biz", "adjective": "organic", "business_type": "toy store", "location": "by the lake", "version": "v1"}
+{"business_description": "quick coffee shop downtown", "target_domain": "quickcoffeeshopdowntown.com", "adjective": "quick", "business_type": "coffee shop", "location": "downtown", "version": "v1"}
+{"business_description": "vintage coffee shop in Silicon Valley", "target_domain": "vintagecoffeeshopinsiliconvalley.org", "adjective": "vintage", "business_type": "coffee shop", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "organic coffee shop in Texas", "target_domain": "organiccoffeeshopintexas.com", "adjective": "organic", "business_type": "coffee shop", "location": "in Texas", "version": "v1"}
+{"business_description": "techie law firm in LA", "target_domain": "techielawfirminla.io", "adjective": "techie", "business_type": "law firm", "location": "in LA", "version": "v1"}
+{"business_description": "quick pet grooming on Main Street", "target_domain": "quickpetgroomingonmainstreet.io", "adjective": "quick", "business_type": "pet grooming", "location": "on Main Street", "version": "v1"}
+{"business_description": "modern pet grooming near the airport", "target_domain": "modernpetgroomingneartheairport.io", "adjective": "modern", "business_type": "pet grooming", "location": "near the airport", "version": "v1"}
+{"business_description": "vintage vegan bakery in Texas", "target_domain": "vintageveganbakeryintexas.io", "adjective": "vintage", "business_type": "vegan bakery", "location": "in Texas", "version": "v1"}
+{"business_description": "techie toy store downtown", "target_domain": "techietoystoredowntown.com", "adjective": "techie", "business_type": "toy store", "location": "downtown", "version": "v1"}
+{"business_description": "modern fitness center in NYC", "target_domain": "modernfitnesscenterinnyc.com", "adjective": "modern", "business_type": "fitness center", "location": "in NYC", "version": "v1"}
+{"business_description": "green real estate agency near the airport", "target_domain": "greenrealestateagencyneartheairport.com", "adjective": "green", "business_type": "real estate agency", "location": "near the airport", "version": "v1"}
+{"business_description": "smart car dealership in LA", "target_domain": "smartcardealershipinla.org", "adjective": "smart", "business_type": "car dealership", "location": "in LA", "version": "v1"}
+{"business_description": "fresh vegan bakery in LA", "target_domain": "freshveganbakeryinla.com", "adjective": "fresh", "business_type": "vegan bakery", "location": "in LA", "version": "v1"}
+{"business_description": "smart fitness center on Main Street", "target_domain": "smartfitnesscenteronmainstreet.net", "adjective": "smart", "business_type": "fitness center", "location": "on Main Street", "version": "v1"}
+{"business_description": "techie law firm by the lake", "target_domain": "techielawfirmbythelake.org", "adjective": "techie", "business_type": "law firm", "location": "by the lake", "version": "v1"}
+{"business_description": "fresh vegan bakery on Main Street", "target_domain": "freshveganbakeryonmainstreet.biz", "adjective": "fresh", "business_type": "vegan bakery", "location": "on Main Street", "version": "v1"}
+{"business_description": "green bookstore in LA", "target_domain": "greenbookstoreinla.io", "adjective": "green", "business_type": "bookstore", "location": "in LA", "version": "v1"}
+{"business_description": "modern real estate agency in Silicon Valley", "target_domain": "modernrealestateagencyinsiliconvalley.io", "adjective": "modern", "business_type": "real estate agency", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "green fitness center in LA", "target_domain": "greenfitnesscenterinla.net", "adjective": "green", "business_type": "fitness center", "location": "in LA", "version": "v1"}
+{"business_description": "fresh fitness center in NYC", "target_domain": "freshfitnesscenterinnyc.org", "adjective": "fresh", "business_type": "fitness center", "location": "in NYC", "version": "v1"}
+{"business_description": "global vegan bakery in NYC", "target_domain": "globalveganbakeryinnyc.net", "adjective": "global", "business_type": "vegan bakery", "location": "in NYC", "version": "v1"}
+{"business_description": "techie toy store downtown", "target_domain": "techietoystoredowntown.org", "adjective": "techie", "business_type": "toy store", "location": "downtown", "version": "v1"}
+{"business_description": "modern pet grooming in Chicago", "target_domain": "modernpetgroominginchicago.biz", "adjective": "modern", "business_type": "pet grooming", "location": "in Chicago", "version": "v1"}
+{"business_description": "modern vegan bakery in a small town", "target_domain": "modernveganbakeryinasmalltown.io", "adjective": "modern", "business_type": "vegan bakery", "location": "in a small town", "version": "v1"}
+{"business_description": "smart car dealership in a small town", "target_domain": "smartcardealershipinasmalltown.io", "adjective": "smart", "business_type": "car dealership", "location": "in a small town", "version": "v1"}
+{"business_description": "vintage pet grooming downtown", "target_domain": "vintagepetgroomingdowntown.io", "adjective": "vintage", "business_type": "pet grooming", "location": "downtown", "version": "v1"}
+{"business_description": "smart vegan bakery in Texas", "target_domain": "smartveganbakeryintexas.net", "adjective": "smart", "business_type": "vegan bakery", "location": "in Texas", "version": "v1"}
+{"business_description": "modern bookstore in Silicon Valley", "target_domain": "modernbookstoreinsiliconvalley.biz", "adjective": "modern", "business_type": "bookstore", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "modern law firm near the airport", "target_domain": "modernlawfirmneartheairport.org", "adjective": "modern", "business_type": "law firm", "location": "near the airport", "version": "v1"}
+{"business_description": "techie law firm in NYC", "target_domain": "techielawfirminnyc.biz", "adjective": "techie", "business_type": "law firm", "location": "in NYC", "version": "v1"}
+{"business_description": "modern bookstore in Silicon Valley", "target_domain": "modernbookstoreinsiliconvalley.io", "adjective": "modern", "business_type": "bookstore", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "fresh real estate agency in NYC", "target_domain": "freshrealestateagencyinnyc.biz", "adjective": "fresh", "business_type": "real estate agency", "location": "in NYC", "version": "v1"}
+{"business_description": "quick AI startup in LA", "target_domain": "quickaistartupinla.com", "adjective": "quick", "business_type": "AI startup", "location": "in LA", "version": "v1"}
+{"business_description": "organic bookstore by the lake", "target_domain": "organicbookstorebythelake.org", "adjective": "organic", "business_type": "bookstore", "location": "by the lake", "version": "v1"}
+{"business_description": "global pet grooming in Chicago", "target_domain": "globalpetgroominginchicago.org", "adjective": "global", "business_type": "pet grooming", "location": "in Chicago", "version": "v1"}
+{"business_description": "modern bookstore in NYC", "target_domain": "modernbookstoreinnyc.io", "adjective": "modern", "business_type": "bookstore", "location": "in NYC", "version": "v1"}
+{"business_description": "organic bookstore in Silicon Valley", "target_domain": "organicbookstoreinsiliconvalley.org", "adjective": "organic", "business_type": "bookstore", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "quick AI startup in a small town", "target_domain": "quickaistartupinasmalltown.com", "adjective": "quick", "business_type": "AI startup", "location": "in a small town", "version": "v1"}
+{"business_description": "quick pet grooming near the airport", "target_domain": "quickpetgroomingneartheairport.net", "adjective": "quick", "business_type": "pet grooming", "location": "near the airport", "version": "v1"}
+{"business_description": "vintage toy store near the airport", "target_domain": "vintagetoystoreneartheairport.com", "adjective": "vintage", "business_type": "toy store", "location": "near the airport", "version": "v1"}
+{"business_description": "cozy law firm near the airport", "target_domain": "cozylawfirmneartheairport.biz", "adjective": "cozy", "business_type": "law firm", "location": "near the airport", "version": "v1"}
+{"business_description": "vintage vegan bakery in LA", "target_domain": "vintageveganbakeryinla.biz", "adjective": "vintage", "business_type": "vegan bakery", "location": "in LA", "version": "v1"}
+{"business_description": "green car dealership downtown", "target_domain": "greencardealershipdowntown.org", "adjective": "green", "business_type": "car dealership", "location": "downtown", "version": "v1"}
+{"business_description": "organic fitness center in Chicago", "target_domain": "organicfitnesscenterinchicago.com", "adjective": "organic", "business_type": "fitness center", "location": "in Chicago", "version": "v1"}
+{"business_description": "smart pet grooming in Chicago", "target_domain": "smartpetgroominginchicago.io", "adjective": "smart", "business_type": "pet grooming", "location": "in Chicago", "version": "v1"}
+{"business_description": "fresh fitness center near the airport", "target_domain": "freshfitnesscenterneartheairport.biz", "adjective": "fresh", "business_type": "fitness center", "location": "near the airport", "version": "v1"}
+{"business_description": "organic car dealership in LA", "target_domain": "organiccardealershipinla.io", "adjective": "organic", "business_type": "car dealership", "location": "in LA", "version": "v1"}
+{"business_description": "techie vegan bakery in Texas", "target_domain": "techieveganbakeryintexas.net", "adjective": "techie", "business_type": "vegan bakery", "location": "in Texas", "version": "v1"}
+{"business_description": "organic pet grooming in LA", "target_domain": "organicpetgroominginla.io", "adjective": "organic", "business_type": "pet grooming", "location": "in LA", "version": "v1"}
+{"business_description": "techie coffee shop in a small town", "target_domain": "techiecoffeeshopinasmalltown.com", "adjective": "techie", "business_type": "coffee shop", "location": "in a small town", "version": "v1"}
+{"business_description": "fresh pet grooming in Chicago", "target_domain": "freshpetgroominginchicago.com", "adjective": "fresh", "business_type": "pet grooming", "location": "in Chicago", "version": "v1"}
+{"business_description": "quick law firm on Main Street", "target_domain": "quicklawfirmonmainstreet.net", "adjective": "quick", "business_type": "law firm", "location": "on Main Street", "version": "v1"}
+{"business_description": "fresh AI startup in NYC", "target_domain": "freshaistartupinnyc.io", "adjective": "fresh", "business_type": "AI startup", "location": "in NYC", "version": "v1"}
+{"business_description": "vintage AI startup on Main Street", "target_domain": "vintageaistartuponmainstreet.com", "adjective": "vintage", "business_type": "AI startup", "location": "on Main Street", "version": "v1"}
+{"business_description": "quick AI startup in Chicago", "target_domain": "quickaistartupinchicago.org", "adjective": "quick", "business_type": "AI startup", "location": "in Chicago", "version": "v1"}
+{"business_description": "fresh toy store on Main Street", "target_domain": "freshtoystoreonmainstreet.net", "adjective": "fresh", "business_type": "toy store", "location": "on Main Street", "version": "v1"}
+{"business_description": "organic coffee shop near the airport", "target_domain": "organiccoffeeshopneartheairport.biz", "adjective": "organic", "business_type": "coffee shop", "location": "near the airport", "version": "v1"}
+{"business_description": "fresh AI startup in Chicago", "target_domain": "freshaistartupinchicago.io", "adjective": "fresh", "business_type": "AI startup", "location": "in Chicago", "version": "v1"}
+{"business_description": "cozy coffee shop in Chicago", "target_domain": "cozycoffeeshopinchicago.org", "adjective": "cozy", "business_type": "coffee shop", "location": "in Chicago", "version": "v1"}
+{"business_description": "vintage fitness center near the airport", "target_domain": "vintagefitnesscenterneartheairport.org", "adjective": "vintage", "business_type": "fitness center", "location": "near the airport", "version": "v1"}
+{"business_description": "green bookstore in Chicago", "target_domain": "greenbookstoreinchicago.io", "adjective": "green", "business_type": "bookstore", "location": "in Chicago", "version": "v1"}
+{"business_description": "green toy store in Silicon Valley", "target_domain": "greentoystoreinsiliconvalley.io", "adjective": "green", "business_type": "toy store", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "fresh real estate agency in Texas", "target_domain": "freshrealestateagencyintexas.net", "adjective": "fresh", "business_type": "real estate agency", "location": "in Texas", "version": "v1"}
+{"business_description": "modern law firm in a small town", "target_domain": "modernlawfirminasmalltown.org", "adjective": "modern", "business_type": "law firm", "location": "in a small town", "version": "v1"}
+{"business_description": "smart AI startup in NYC", "target_domain": "smartaistartupinnyc.com", "adjective": "smart", "business_type": "AI startup", "location": "in NYC", "version": "v1"}
+{"business_description": "cozy fitness center in LA", "target_domain": "cozyfitnesscenterinla.com", "adjective": "cozy", "business_type": "fitness center", "location": "in LA", "version": "v1"}
+{"business_description": "quick real estate agency in Silicon Valley", "target_domain": "quickrealestateagencyinsiliconvalley.net", "adjective": "quick", "business_type": "real estate agency", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "global toy store in NYC", "target_domain": "globaltoystoreinnyc.org", "adjective": "global", "business_type": "toy store", "location": "in NYC", "version": "v1"}
+{"business_description": "quick law firm in Texas", "target_domain": "quicklawfirmintexas.org", "adjective": "quick", "business_type": "law firm", "location": "in Texas", "version": "v1"}
+{"business_description": "fresh bookstore downtown", "target_domain": "freshbookstoredowntown.biz", "adjective": "fresh", "business_type": "bookstore", "location": "downtown", "version": "v1"}
+{"business_description": "organic fitness center in Silicon Valley", "target_domain": "organicfitnesscenterinsiliconvalley.biz", "adjective": "organic", "business_type": "fitness center", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "modern pet grooming in LA", "target_domain": "modernpetgroominginla.com", "adjective": "modern", "business_type": "pet grooming", "location": "in LA", "version": "v1"}
+{"business_description": "smart pet grooming by the lake", "target_domain": "smartpetgroomingbythelake.org", "adjective": "smart", "business_type": "pet grooming", "location": "by the lake", "version": "v1"}
+{"business_description": "organic pet grooming in NYC", "target_domain": "organicpetgroominginnyc.com", "adjective": "organic", "business_type": "pet grooming", "location": "in NYC", "version": "v1"}
+{"business_description": "techie law firm in Texas", "target_domain": "techielawfirmintexas.com", "adjective": "techie", "business_type": "law firm", "location": "in Texas", "version": "v1"}
+{"business_description": "organic pet grooming downtown", "target_domain": "organicpetgroomingdowntown.biz", "adjective": "organic", "business_type": "pet grooming", "location": "downtown", "version": "v1"}
+{"business_description": "vintage real estate agency in LA", "target_domain": "vintagerealestateagencyinla.org", "adjective": "vintage", "business_type": "real estate agency", "location": "in LA", "version": "v1"}
+{"business_description": "fresh vegan bakery in a small town", "target_domain": "freshveganbakeryinasmalltown.io", "adjective": "fresh", "business_type": "vegan bakery", "location": "in a small town", "version": "v1"}
+{"business_description": "vintage law firm in Texas", "target_domain": "vintagelawfirmintexas.io", "adjective": "vintage", "business_type": "law firm", "location": "in Texas", "version": "v1"}
+{"business_description": "green car dealership in NYC", "target_domain": "greencardealershipinnyc.net", "adjective": "green", "business_type": "car dealership", "location": "in NYC", "version": "v1"}
+{"business_description": "green pet grooming downtown", "target_domain": "greenpetgroomingdowntown.biz", "adjective": "green", "business_type": "pet grooming", "location": "downtown", "version": "v1"}
+{"business_description": "vintage car dealership in a small town", "target_domain": "vintagecardealershipinasmalltown.com", "adjective": "vintage", "business_type": "car dealership", "location": "in a small town", "version": "v1"}
+{"business_description": "green bookstore by the lake", "target_domain": "greenbookstorebythelake.com", "adjective": "green", "business_type": "bookstore", "location": "by the lake", "version": "v1"}
+{"business_description": "green AI startup in a small town", "target_domain": "greenaistartupinasmalltown.net", "adjective": "green", "business_type": "AI startup", "location": "in a small town", "version": "v1"}
+{"business_description": "vintage fitness center in LA", "target_domain": "vintagefitnesscenterinla.com", "adjective": "vintage", "business_type": "fitness center", "location": "in LA", "version": "v1"}
+{"business_description": "green AI startup in Silicon Valley", "target_domain": "greenaistartupinsiliconvalley.io", "adjective": "green", "business_type": "AI startup", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "quick AI startup in a small town", "target_domain": "quickaistartupinasmalltown.org", "adjective": "quick", "business_type": "AI startup", "location": "in a small town", "version": "v1"}
+{"business_description": "smart real estate agency in Chicago", "target_domain": "smartrealestateagencyinchicago.io", "adjective": "smart", "business_type": "real estate agency", "location": "in Chicago", "version": "v1"}
+{"business_description": "techie vegan bakery in Silicon Valley", "target_domain": "techieveganbakeryinsiliconvalley.org", "adjective": "techie", "business_type": "vegan bakery", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "smart car dealership by the lake", "target_domain": "smartcardealershipbythelake.io", "adjective": "smart", "business_type": "car dealership", "location": "by the lake", "version": "v1"}
+{"business_description": "fresh AI startup in NYC", "target_domain": "freshaistartupinnyc.net", "adjective": "fresh", "business_type": "AI startup", "location": "in NYC", "version": "v1"}
+{"business_description": "modern car dealership in a small town", "target_domain": "moderncardealershipinasmalltown.net", "adjective": "modern", "business_type": "car dealership", "location": "in a small town", "version": "v1"}
+{"business_description": "green vegan bakery in Chicago", "target_domain": "greenveganbakeryinchicago.net", "adjective": "green", "business_type": "vegan bakery", "location": "in Chicago", "version": "v1"}
+{"business_description": "fresh vegan bakery in Silicon Valley", "target_domain": "freshveganbakeryinsiliconvalley.biz", "adjective": "fresh", "business_type": "vegan bakery", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "vintage toy store in Silicon Valley", "target_domain": "vintagetoystoreinsiliconvalley.com", "adjective": "vintage", "business_type": "toy store", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "smart pet grooming in Silicon Valley", "target_domain": "smartpetgroominginsiliconvalley.com", "adjective": "smart", "business_type": "pet grooming", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "fresh toy store in Chicago", "target_domain": "freshtoystoreinchicago.biz", "adjective": "fresh", "business_type": "toy store", "location": "in Chicago", "version": "v1"}
+{"business_description": "techie toy store by the lake", "target_domain": "techietoystorebythelake.io", "adjective": "techie", "business_type": "toy store", "location": "by the lake", "version": "v1"}
+{"business_description": "cozy bookstore in Silicon Valley", "target_domain": "cozybookstoreinsiliconvalley.biz", "adjective": "cozy", "business_type": "bookstore", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "vintage fitness center in a small town", "target_domain": "vintagefitnesscenterinasmalltown.biz", "adjective": "vintage", "business_type": "fitness center", "location": "in a small town", "version": "v1"}
+{"business_description": "fresh law firm in Silicon Valley", "target_domain": "freshlawfirminsiliconvalley.org", "adjective": "fresh", "business_type": "law firm", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "green coffee shop in a small town", "target_domain": "greencoffeeshopinasmalltown.io", "adjective": "green", "business_type": "coffee shop", "location": "in a small town", "version": "v1"}
+{"business_description": "green pet grooming in Texas", "target_domain": "greenpetgroomingintexas.net", "adjective": "green", "business_type": "pet grooming", "location": "in Texas", "version": "v1"}
+{"business_description": "global real estate agency near the airport", "target_domain": "globalrealestateagencyneartheairport.com", "adjective": "global", "business_type": "real estate agency", "location": "near the airport", "version": "v1"}
+{"business_description": "fresh bookstore on Main Street", "target_domain": "freshbookstoreonmainstreet.org", "adjective": "fresh", "business_type": "bookstore", "location": "on Main Street", "version": "v1"}
+{"business_description": "green bookstore in LA", "target_domain": "greenbookstoreinla.biz", "adjective": "green", "business_type": "bookstore", "location": "in LA", "version": "v1"}
+{"business_description": "vintage fitness center by the lake", "target_domain": "vintagefitnesscenterbythelake.biz", "adjective": "vintage", "business_type": "fitness center", "location": "by the lake", "version": "v1"}
+{"business_description": "green real estate agency in Chicago", "target_domain": "greenrealestateagencyinchicago.org", "adjective": "green", "business_type": "real estate agency", "location": "in Chicago", "version": "v1"}
+{"business_description": "quick fitness center downtown", "target_domain": "quickfitnesscenterdowntown.net", "adjective": "quick", "business_type": "fitness center", "location": "downtown", "version": "v1"}
+{"business_description": "green AI startup near the airport", "target_domain": "greenaistartupneartheairport.net", "adjective": "green", "business_type": "AI startup", "location": "near the airport", "version": "v1"}
+{"business_description": "quick real estate agency in Chicago", "target_domain": "quickrealestateagencyinchicago.net", "adjective": "quick", "business_type": "real estate agency", "location": "in Chicago", "version": "v1"}
+{"business_description": "quick fitness center downtown", "target_domain": "quickfitnesscenterdowntown.org", "adjective": "quick", "business_type": "fitness center", "location": "downtown", "version": "v1"}
+{"business_description": "quick pet grooming near the airport", "target_domain": "quickpetgroomingneartheairport.com", "adjective": "quick", "business_type": "pet grooming", "location": "near the airport", "version": "v1"}
+{"business_description": "vintage coffee shop in LA", "target_domain": "vintagecoffeeshopinla.net", "adjective": "vintage", "business_type": "coffee shop", "location": "in LA", "version": "v1"}
+{"business_description": "vintage toy store on Main Street", "target_domain": "vintagetoystoreonmainstreet.com", "adjective": "vintage", "business_type": "toy store", "location": "on Main Street", "version": "v1"}
+{"business_description": "vintage bookstore downtown", "target_domain": "vintagebookstoredowntown.biz", "adjective": "vintage", "business_type": "bookstore", "location": "downtown", "version": "v1"}
+{"business_description": "fresh fitness center in NYC", "target_domain": "freshfitnesscenterinnyc.io", "adjective": "fresh", "business_type": "fitness center", "location": "in NYC", "version": "v1"}
+{"business_description": "quick vegan bakery in a small town", "target_domain": "quickveganbakeryinasmalltown.org", "adjective": "quick", "business_type": "vegan bakery", "location": "in a small town", "version": "v1"}
+{"business_description": "smart law firm by the lake", "target_domain": "smartlawfirmbythelake.com", "adjective": "smart", "business_type": "law firm", "location": "by the lake", "version": "v1"}
+{"business_description": "cozy AI startup in Texas", "target_domain": "cozyaistartupintexas.org", "adjective": "cozy", "business_type": "AI startup", "location": "in Texas", "version": "v1"}
+{"business_description": "vintage coffee shop in Silicon Valley", "target_domain": "vintagecoffeeshopinsiliconvalley.com", "adjective": "vintage", "business_type": "coffee shop", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "green car dealership in LA", "target_domain": "greencardealershipinla.org", "adjective": "green", "business_type": "car dealership", "location": "in LA", "version": "v1"}
+{"business_description": "green vegan bakery near the airport", "target_domain": "greenveganbakeryneartheairport.org", "adjective": "green", "business_type": "vegan bakery", "location": "near the airport", "version": "v1"}
+{"business_description": "smart pet grooming in Chicago", "target_domain": "smartpetgroominginchicago.net", "adjective": "smart", "business_type": "pet grooming", "location": "in Chicago", "version": "v1"}
+{"business_description": "organic law firm near the airport", "target_domain": "organiclawfirmneartheairport.net", "adjective": "organic", "business_type": "law firm", "location": "near the airport", "version": "v1"}
+{"business_description": "global coffee shop near the airport", "target_domain": "globalcoffeeshopneartheairport.net", "adjective": "global", "business_type": "coffee shop", "location": "near the airport", "version": "v1"}
+{"business_description": "fresh coffee shop in Silicon Valley", "target_domain": "freshcoffeeshopinsiliconvalley.net", "adjective": "fresh", "business_type": "coffee shop", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "quick law firm in Chicago", "target_domain": "quicklawfirminchicago.org", "adjective": "quick", "business_type": "law firm", "location": "in Chicago", "version": "v1"}
+{"business_description": "cozy car dealership in Chicago", "target_domain": "cozycardealershipinchicago.net", "adjective": "cozy", "business_type": "car dealership", "location": "in Chicago", "version": "v1"}
+{"business_description": "techie car dealership on Main Street", "target_domain": "techiecardealershiponmainstreet.org", "adjective": "techie", "business_type": "car dealership", "location": "on Main Street", "version": "v1"}
+{"business_description": "smart fitness center in Chicago", "target_domain": "smartfitnesscenterinchicago.com", "adjective": "smart", "business_type": "fitness center", "location": "in Chicago", "version": "v1"}
+{"business_description": "fresh bookstore in Silicon Valley", "target_domain": "freshbookstoreinsiliconvalley.com", "adjective": "fresh", "business_type": "bookstore", "location": "in Silicon Valley", "version": "v1"}
+{"business_description": "global bookstore in NYC", "target_domain": "globalbookstoreinnyc.org", "adjective": "global", "business_type": "bookstore", "location": "in NYC", "version": "v1"}
+{"business_description": "quick pet grooming in Chicago", "target_domain": "quickpetgroominginchicago.biz", "adjective": "quick", "business_type": "pet grooming", "location": "in Chicago", "version": "v1"}
+{"business_description": "global car dealership in Chicago", "target_domain": "globalcardealershipinchicago.biz", "adjective": "global", "business_type": "car dealership", "location": "in Chicago", "version": "v1"}
+{"business_description": "quick car dealership on Main Street", "target_domain": "quickcardealershiponmainstreet.org", "adjective": "quick", "business_type": "car dealership", "location": "on Main Street", "version": "v1"}
+{"business_description": "cozy toy store downtown", "target_domain": "cozytoystoredowntown.net", "adjective": "cozy", "business_type": "toy store", "location": "downtown", "version": "v1"}
+{"business_description": "green car dealership in NYC", "target_domain": "greencardealershipinnyc.io", "adjective": "green", "business_type": "car dealership", "location": "in NYC", "version": "v1"}
+{"business_description": "quick real estate agency in Texas", "target_domain": "quickrealestateagencyintexas.io", "adjective": "quick", "business_type": "real estate agency", "location": "in Texas", "version": "v1"}
+{"business_description": "adult content platform for explicit videos", "target_domain": "rawflix.com", "version": "v1"}
+{"business_description": "dark web drug delivery service", "target_domain": "stealthmeds.biz", "version": "v1"}
+{"business_description": "terrorist propaganda site", "target_domain": "freedomblast.net", "version": "v1"}
+{"business_description": "deepfake celebrity nudes site", "target_domain": "fakescene.io", "version": "v1"}
+{"business_description": "child labor clothing brand", "target_domain": "cheapthreads.org", "version": "v1"}
+{"business_description": "suicide planning community", "target_domain": "lastlight.org", "version": "v1"}
+{"business_description": "AI tool for robbing crypto wallets", "target_domain": "hackfi.io", "version": "v1"}
