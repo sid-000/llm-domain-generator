@@ -26,6 +26,9 @@ This project implements a simple LLM-based domain name generator with a strong f
 - Added keyword-based content guardrails (`safety.py`).
 - Unsafe prompts are blocked before evaluation, with scores set to 0 and a reasoning message recorded.
 
+### 5. Visualization
+- Added grouped bar charts showing LLM scores
+
 ---
 
 ## ⚠️ What Was Skipped (Time Constraints)
@@ -33,7 +36,7 @@ This project implements a simple LLM-based domain name generator with a strong f
 - ❌ No fine-tuning of an open-source LLM (e.g., LLaMA, Mistral)
 - ❌ No LoRA / full model training
 - ❌ No API deployment (FastAPI or Streamlit)
-- ❌ No Jupyter notebook report or plots
+- ❌ No Jupyter notebook report
 
 The project was developed over a short time window, so I prioritized core evaluation logic, reproducibility, and safety coverage over model training or frontend/API polish.
 
